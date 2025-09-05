@@ -1,0 +1,1001 @@
+EmployeeID,FullName,Email,Department,JobTitle,PayGrade,CTC_LPA,DateOfJoining,DateOfLeaving,EmploymentStatus
+EMP0001,Holly Shah PhD,holly.shah.phd@company.com,Marketing,Marketing Executive,E,41.33,2021-11-25,2022-05-21,Resigned
+EMP0002,Glenn Smith,glenn.smith@company.com,Finance,Accountant,E,44.03,2020-03-06,2021-03-27,Resigned
+EMP0003,Keith Leonard,keith.leonard@company.com,Operations,Operations Analyst,E,41.29,2015-10-31,2024-10-19,Resigned
+EMP0004,Kathryn Lawrence MD,kathryn.lawrence.md@company.com,IT,Software Engineer,B,10.19,2020-09-18,2021-09-19,Resigned
+EMP0005,Thomas Hughes,thomas.hughes@company.com,Finance,Accountant,C,12.82,2016-05-01,2021-12-13,Resigned
+EMP0006,Thomas Gomez,thomas.gomez@company.com,IT,Data Analyst,E,38.97,2016-11-19,2022-02-27,Resigned
+EMP0007,Carolyn Moody,carolyn.moody@company.com,Sales,Business Development,A,5.92,2019-01-20,2023-05-27,Resigned
+EMP0008,Heather Ramirez,heather.ramirez@company.com,Marketing,SEO Specialist,E,48.28,2021-09-24,2025-08-14,Resigned
+EMP0009,Linda Underwood,linda.underwood@company.com,Finance,Finance Manager,A,3.14,2018-12-01,2020-04-03,Resigned
+EMP0010,Marcus Aguirre,marcus.aguirre@company.com,IT,Software Engineer,B,11.2,2017-12-22,2019-01-09,Resigned
+EMP0011,Julie Peterson,julie.peterson@company.com,Sales,Business Development,C,13.3,2022-11-27,2023-05-25,Resigned
+EMP0012,Joy Davis,joy.davis@company.com,Operations,Logistics Manager,A,4.83,2018-08-14,2024-08-13,Resigned
+EMP0013,Misty Harrington,misty.harrington@company.com,Operations,Operations Executive,B,8.77,2021-05-16,2022-02-25,Resigned
+EMP0014,Connie Kemp,connie.kemp@company.com,Operations,Operations Analyst,E,38.29,2017-04-25,2017-12-26,Resigned
+EMP0015,Jonathan Cox,jonathan.cox@company.com,R&D,Research Scientist,B,10.93,2020-07-03,,Active
+EMP0016,Thomas Clark,thomas.clark@company.com,Sales,Sales Manager,A,3.63,2020-05-20,,Active
+EMP0017,Steven Adams,steven.adams@company.com,Operations,Logistics Manager,B,9.93,2023-10-22,2025-07-28,Resigned
+EMP0018,Christopher Guerra,christopher.guerra@company.com,Operations,Logistics Manager,B,7.59,2019-10-07,2025-04-25,Resigned
+EMP0019,John White,john.white@company.com,Marketing,Marketing Manager,C,17.98,2017-01-12,2021-04-25,Resigned
+EMP0020,Maureen Davis,maureen.davis@company.com,Marketing,SEO Specialist,C,13.75,2020-02-09,,Active
+EMP0021,Philip Pitts,philip.pitts@company.com,Marketing,SEO Specialist,A,5.27,2019-09-07,,Active
+EMP0022,Lisa Powell,lisa.powell@company.com,Finance,Finance Manager,B,10.75,2017-08-21,2020-07-24,Resigned
+EMP0023,Jennifer Moore,jennifer.moore@company.com,HR,Recruiter,D,28.94,2019-01-11,2024-07-23,Resigned
+EMP0024,Vanessa Arias,vanessa.arias@company.com,IT,Software Engineer,A,5.05,2022-12-24,2025-01-07,Resigned
+EMP0025,Joseph Bailey,joseph.bailey@company.com,IT,Data Analyst,A,3.88,2016-10-27,2023-10-18,Resigned
+EMP0026,Tracy Olson,tracy.olson@company.com,HR,HR Executive,C,19.78,2016-06-03,2020-06-02,Resigned
+EMP0027,Thomas Stevens,thomas.stevens@company.com,Marketing,Marketing Executive,C,18.73,2023-06-02,2024-08-09,Resigned
+EMP0028,Mark Allen,mark.allen@company.com,Finance,Accountant,C,18.1,2020-05-27,2022-02-07,Resigned
+EMP0029,Mr. Derrick Stone,mr..derrick.stone@company.com,R&D,Lab Technician,A,4.8,2024-07-10,2025-04-25,Resigned
+EMP0030,Kevin Vargas,kevin.vargas@company.com,HR,Recruiter,C,13.92,2020-01-25,2023-10-19,Resigned
+EMP0031,Mark Sheppard,mark.sheppard@company.com,Marketing,Marketing Executive,A,5.2,2016-05-07,,Active
+EMP0032,Albert Horton,albert.horton@company.com,R&D,Lab Technician,B,6.77,2019-07-23,2023-06-11,Resigned
+EMP0033,Paula Adams,paula.adams@company.com,Marketing,Marketing Executive,C,16.22,2018-09-06,2023-09-09,Resigned
+EMP0034,Mary Thompson,mary.thompson@company.com,Finance,Finance Manager,B,10.28,2024-08-09,2025-03-20,Resigned
+EMP0035,Erica Castro,erica.castro@company.com,Operations,Operations Analyst,C,15.5,2020-07-15,2025-05-12,Resigned
+EMP0036,Mr. Michael Dixon,mr..michael.dixon@company.com,HR,HR Manager,B,6.38,2017-01-01,2022-06-28,Resigned
+EMP0037,Elizabeth Parks,elizabeth.parks@company.com,Marketing,Marketing Executive,E,38.3,2023-06-23,2024-05-15,Resigned
+EMP0038,Gregory Frederick,gregory.frederick@company.com,Operations,Operations Executive,B,6.4,2020-03-03,2021-10-10,Resigned
+EMP0039,Daniel Gibson,daniel.gibson@company.com,IT,Software Engineer,E,38.57,2023-10-14,2023-12-24,Resigned
+EMP0040,Dalton Carter,dalton.carter@company.com,Finance,Finance Manager,B,10.34,2020-04-23,,Active
+EMP0041,Kenneth Powell,kenneth.powell@company.com,Marketing,SEO Specialist,B,10.71,2017-05-29,,Active
+EMP0042,Ashley Cox,ashley.cox@company.com,Finance,Accountant,A,4.98,2018-04-03,2023-08-13,Resigned
+EMP0043,Dawn Wilkins,dawn.wilkins@company.com,Sales,Sales Manager,A,5.02,2020-06-08,,Active
+EMP0044,Nicole Ramirez,nicole.ramirez@company.com,HR,HR Manager,D,30.92,2020-05-29,,Active
+EMP0045,Emily Monroe,emily.monroe@company.com,HR,HR Manager,B,7.14,2023-07-11,2024-11-18,Resigned
+EMP0046,Dr. Darren Butler,dr..darren.butler@company.com,Sales,Sales Executive,C,15.7,2019-06-20,,Active
+EMP0047,Douglas Garrett,douglas.garrett@company.com,HR,Recruiter,E,36.47,2022-08-18,2025-05-09,Resigned
+EMP0048,Allen Price,allen.price@company.com,Marketing,Marketing Executive,A,5.78,2023-10-05,,Active
+EMP0049,Lauren Gordon,lauren.gordon@company.com,Finance,Financial Analyst,D,27.22,2022-07-11,,Active
+EMP0050,Samantha Rivera,samantha.rivera@company.com,HR,HR Manager,D,20.03,2023-10-02,2024-02-20,Resigned
+EMP0051,Nicholas Chapman,nicholas.chapman@company.com,R&D,Product Developer,C,15.38,2023-03-01,,Active
+EMP0052,Austin Hill,austin.hill@company.com,R&D,Lab Technician,D,22.32,2017-06-20,2023-10-10,Resigned
+EMP0053,Tommy Turner,tommy.turner@company.com,HR,HR Executive,E,35.91,2016-05-06,2016-09-09,Resigned
+EMP0054,Terry Raymond,terry.raymond@company.com,HR,HR Executive,D,27.54,2019-11-07,,Active
+EMP0055,Robert Williams,robert.williams@company.com,Finance,Accountant,E,36.2,2017-08-27,2024-05-25,Resigned
+EMP0056,Mary Carroll,mary.carroll@company.com,Marketing,Marketing Executive,B,8.42,2017-03-22,,Active
+EMP0057,Amanda Larson,amanda.larson@company.com,Marketing,Marketing Executive,E,43.92,2019-08-04,2024-05-09,Resigned
+EMP0058,Darren Moore,darren.moore@company.com,Sales,Business Development,E,43.48,2018-04-25,2021-09-02,Resigned
+EMP0059,Kathleen Porter,kathleen.porter@company.com,IT,System Admin,C,13.91,2016-05-15,2024-10-28,Resigned
+EMP0060,Ralph Cole,ralph.cole@company.com,Operations,Operations Analyst,C,15.66,2021-02-17,,Active
+EMP0061,Brian Bowers,brian.bowers@company.com,HR,HR Manager,D,29.32,2020-05-21,2022-12-04,Resigned
+EMP0062,Melissa Martinez,melissa.martinez@company.com,HR,HR Manager,E,38.2,2021-07-16,2021-12-07,Resigned
+EMP0063,Danielle Mills,danielle.mills@company.com,IT,Software Engineer,B,8.22,2019-10-31,2021-01-07,Resigned
+EMP0064,John Terry,john.terry@company.com,R&D,Lab Technician,C,16.89,2015-11-05,,Active
+EMP0065,Bethany Banks,bethany.banks@company.com,Operations,Operations Analyst,A,5.0,2020-05-09,2021-04-27,Resigned
+EMP0066,Megan Ballard,megan.ballard@company.com,Operations,Operations Executive,B,7.59,2016-10-11,,Active
+EMP0067,Michele Sanders,michele.sanders@company.com,Operations,Operations Analyst,B,7.63,2020-04-30,2021-10-04,Resigned
+EMP0068,Melissa Reed,melissa.reed@company.com,Operations,Logistics Manager,B,10.12,2021-08-01,,Active
+EMP0069,Robert Walsh,robert.walsh@company.com,Marketing,SEO Specialist,C,19.24,2022-06-03,,Active
+EMP0070,Courtney Curtis,courtney.curtis@company.com,HR,HR Executive,D,32.44,2022-07-28,2024-10-18,Resigned
+EMP0071,Tommy Cruz,tommy.cruz@company.com,IT,System Admin,C,13.29,2022-01-23,2025-03-29,Resigned
+EMP0072,Kimberly Bennett,kimberly.bennett@company.com,Operations,Logistics Manager,E,35.15,2016-07-05,2019-04-22,Resigned
+EMP0073,Michael Elliott,michael.elliott@company.com,Operations,Operations Executive,E,35.54,2015-11-28,2019-03-16,Resigned
+EMP0074,Stacie Hogan,stacie.hogan@company.com,Marketing,Marketing Executive,D,21.91,2022-01-05,2023-02-25,Resigned
+EMP0075,Paul Wheeler,paul.wheeler@company.com,R&D,Research Scientist,C,13.68,2021-10-24,2024-12-15,Resigned
+EMP0076,Michael Armstrong,michael.armstrong@company.com,HR,Recruiter,E,48.26,2020-11-28,2025-08-24,Resigned
+EMP0077,Patrick Ponce,patrick.ponce@company.com,Marketing,Marketing Manager,B,11.55,2021-04-06,2024-05-26,Resigned
+EMP0078,Julian Garcia,julian.garcia@company.com,Finance,Accountant,D,20.37,2021-12-24,2023-03-04,Resigned
+EMP0079,Ashley Riley,ashley.riley@company.com,IT,IT Manager,B,7.6,2019-09-16,2021-03-02,Resigned
+EMP0080,Madeline Stout,madeline.stout@company.com,HR,Recruiter,A,5.58,2019-12-08,2023-02-15,Resigned
+EMP0081,Christopher Campbell,christopher.campbell@company.com,R&D,Product Developer,C,14.44,2019-02-07,2021-01-02,Resigned
+EMP0082,Marcus Morales,marcus.morales@company.com,Finance,Accountant,A,4.98,2017-06-17,2020-03-27,Resigned
+EMP0083,Thomas Lewis,thomas.lewis@company.com,IT,Software Engineer,C,14.81,2015-11-29,2025-05-10,Resigned
+EMP0084,Linda Robbins,linda.robbins@company.com,Operations,Operations Analyst,C,19.51,2018-03-14,2020-02-01,Resigned
+EMP0085,Emily Gibson,emily.gibson@company.com,IT,System Admin,E,49.44,2021-05-24,2025-01-06,Resigned
+EMP0086,Scott Jackson,scott.jackson@company.com,HR,HR Executive,D,25.19,2020-04-01,2023-10-18,Resigned
+EMP0087,Jonathon Clark,jonathon.clark@company.com,Sales,Business Development,E,36.73,2022-06-29,,Active
+EMP0088,Nathan Ferguson,nathan.ferguson@company.com,Finance,Financial Analyst,A,5.13,2020-10-22,2025-05-04,Resigned
+EMP0089,Latasha Martin,latasha.martin@company.com,R&D,Lab Technician,B,8.19,2015-09-07,2021-06-14,Resigned
+EMP0090,Jacqueline Hudson,jacqueline.hudson@company.com,Operations,Logistics Manager,E,39.71,2022-07-23,,Active
+EMP0091,Anthony Floyd,anthony.floyd@company.com,Operations,Logistics Manager,E,39.64,2017-12-24,2023-01-23,Resigned
+EMP0092,Rebekah Gonzales,rebekah.gonzales@company.com,Sales,Business Development,C,16.44,2019-02-19,2020-11-24,Resigned
+EMP0093,Tracy Martinez,tracy.martinez@company.com,Operations,Logistics Manager,B,9.69,2024-04-15,2025-05-17,Resigned
+EMP0094,Larry Sullivan,larry.sullivan@company.com,Marketing,Marketing Executive,C,14.3,2021-04-11,2025-06-09,Resigned
+EMP0095,William Park,william.park@company.com,Marketing,Marketing Manager,C,15.72,2021-08-07,2022-10-23,Resigned
+EMP0096,Robert Duncan,robert.duncan@company.com,Finance,Finance Manager,D,31.91,2019-08-09,,Active
+EMP0097,Mary Jackson,mary.jackson@company.com,Operations,Operations Executive,A,3.85,2016-05-16,2024-03-06,Resigned
+EMP0098,Christopher Oneill,christopher.oneill@company.com,Marketing,SEO Specialist,A,5.46,2020-09-16,2025-07-15,Resigned
+EMP0099,Jonathan Mills,jonathan.mills@company.com,Operations,Logistics Manager,B,10.84,2017-09-13,2025-05-19,Resigned
+EMP0100,Jacob Sosa,jacob.sosa@company.com,HR,HR Manager,D,29.17,2020-08-27,2025-03-31,Resigned
+EMP0101,Krystal Jones,krystal.jones@company.com,Sales,Sales Manager,E,37.92,2022-06-06,2022-11-23,Resigned
+EMP0102,Ashley Warner,ashley.warner@company.com,Sales,Sales Manager,B,6.89,2019-11-17,2021-04-04,Resigned
+EMP0103,Frank Schwartz,frank.schwartz@company.com,R&D,Research Scientist,D,23.28,2023-12-18,,Active
+EMP0104,Emma Wood,emma.wood@company.com,Operations,Operations Analyst,D,20.75,2023-10-23,2025-01-13,Resigned
+EMP0105,Carlos Brooks,carlos.brooks@company.com,R&D,Research Scientist,D,22.0,2021-10-21,2024-09-15,Resigned
+EMP0106,Jamie Martin,jamie.martin@company.com,Marketing,Marketing Manager,E,39.76,2015-09-22,2023-12-26,Resigned
+EMP0107,Denise Hubbard,denise.hubbard@company.com,Sales,Business Development,E,41.4,2018-09-06,,Active
+EMP0108,Stephen Lester,stephen.lester@company.com,Sales,Sales Executive,D,26.75,2020-09-12,2021-06-18,Resigned
+EMP0109,Mrs. Lisa Moore,mrs..lisa.moore@company.com,R&D,Lab Technician,C,18.13,2017-09-27,2024-04-10,Resigned
+EMP0110,Kyle Foster Jr.,kyle.foster.jr.@company.com,Operations,Operations Executive,C,15.52,2016-05-11,2020-06-25,Resigned
+EMP0111,Sandra Carney,sandra.carney@company.com,Finance,Financial Analyst,C,14.56,2018-09-22,2023-01-18,Resigned
+EMP0112,Sandra Ramsey,sandra.ramsey@company.com,Finance,Accountant,B,8.3,2016-12-23,2022-05-28,Resigned
+EMP0113,Craig Clark,craig.clark@company.com,Finance,Accountant,D,26.11,2023-02-26,2024-02-11,Resigned
+EMP0114,Tina Waller,tina.waller@company.com,Sales,Sales Executive,B,11.0,2021-11-27,2023-04-13,Resigned
+EMP0115,Christina Davis,christina.davis@company.com,R&D,Lab Technician,A,5.57,2022-04-05,2025-01-17,Resigned
+EMP0116,Christopher Pierce,christopher.pierce@company.com,Sales,Sales Manager,A,5.83,2016-08-21,2024-03-03,Resigned
+EMP0117,Angela Garcia,angela.garcia@company.com,Sales,Sales Manager,E,46.21,2024-03-13,2025-08-09,Resigned
+EMP0118,Ms. Amy Cardenas DDS,ms..amy.cardenas.dds@company.com,Marketing,Marketing Executive,D,23.29,2020-03-04,2023-04-11,Resigned
+EMP0119,Sarah Shannon,sarah.shannon@company.com,HR,Recruiter,C,17.35,2021-11-29,2022-05-17,Resigned
+EMP0120,William Cook,william.cook@company.com,Operations,Operations Executive,D,33.79,2022-07-09,,Active
+EMP0121,Andrew Davidson,andrew.davidson@company.com,Marketing,Marketing Executive,D,28.88,2018-02-26,2018-05-04,Resigned
+EMP0122,Kevin Barker,kevin.barker@company.com,HR,HR Executive,D,22.04,2023-09-23,2024-08-24,Resigned
+EMP0123,Craig Meyers,craig.meyers@company.com,HR,Recruiter,D,24.91,2023-07-05,2023-11-28,Resigned
+EMP0124,Brian Miller,brian.miller@company.com,IT,IT Manager,C,18.02,2016-01-26,,Active
+EMP0125,Daniel Molina,daniel.molina@company.com,IT,Software Engineer,D,20.29,2018-06-21,2024-11-22,Resigned
+EMP0126,Ann Blair,ann.blair@company.com,IT,System Admin,A,5.34,2017-06-16,2024-03-13,Resigned
+EMP0127,Laura Morris,laura.morris@company.com,R&D,Research Scientist,B,7.2,2021-07-08,2024-09-04,Resigned
+EMP0128,Shelly Vasquez,shelly.vasquez@company.com,Finance,Accountant,B,8.84,2016-02-23,2016-07-30,Resigned
+EMP0129,David Sullivan,david.sullivan@company.com,Finance,Financial Analyst,C,18.14,2017-12-30,2020-11-21,Resigned
+EMP0130,Angela Morris,angela.morris@company.com,Marketing,Marketing Manager,A,5.33,2017-11-28,2019-05-27,Resigned
+EMP0131,Kelly Mckinney,kelly.mckinney@company.com,IT,Software Engineer,E,35.39,2016-06-18,2024-01-12,Resigned
+EMP0132,Charles Mills,charles.mills@company.com,Operations,Logistics Manager,D,34.12,2018-12-18,2023-05-12,Resigned
+EMP0133,William Hernandez,william.hernandez@company.com,Marketing,Marketing Manager,B,6.61,2023-12-18,2025-04-03,Resigned
+EMP0134,Christopher Jackson,christopher.jackson@company.com,R&D,Lab Technician,E,47.08,2022-11-01,2024-07-02,Resigned
+EMP0135,Eric Harrington,eric.harrington@company.com,Marketing,Marketing Executive,C,16.26,2016-04-12,2025-02-27,Resigned
+EMP0136,Cynthia Murray,cynthia.murray@company.com,HR,HR Executive,C,12.1,2022-11-13,2023-06-15,Resigned
+EMP0137,Richard Mueller,richard.mueller@company.com,Sales,Sales Executive,D,34.41,2024-01-26,2024-10-29,Resigned
+EMP0138,Timothy Bailey,timothy.bailey@company.com,R&D,Product Developer,B,8.61,2016-06-17,2018-05-03,Resigned
+EMP0139,Daniel Walker,daniel.walker@company.com,Operations,Logistics Manager,E,47.12,2023-06-03,2024-07-27,Resigned
+EMP0140,Nathan Hernandez,nathan.hernandez@company.com,Sales,Sales Manager,D,32.39,2020-08-13,2025-05-24,Resigned
+EMP0141,Todd Williams,todd.williams@company.com,IT,System Admin,A,3.84,2022-03-10,2023-04-26,Resigned
+EMP0142,Robert Harvey,robert.harvey@company.com,R&D,Product Developer,E,44.15,2017-02-28,2024-01-21,Resigned
+EMP0143,Brent Carter,brent.carter@company.com,HR,Recruiter,C,13.45,2023-07-06,2024-02-20,Resigned
+EMP0144,Monica Benitez,monica.benitez@company.com,R&D,Product Developer,C,14.24,2016-04-12,2017-12-14,Resigned
+EMP0145,Joseph Brown,joseph.brown@company.com,IT,Software Engineer,E,49.22,2018-10-31,2024-07-04,Resigned
+EMP0146,Barbara Barry,barbara.barry@company.com,Operations,Logistics Manager,D,28.33,2023-11-28,2024-03-09,Resigned
+EMP0147,Sara Cowan,sara.cowan@company.com,Sales,Business Development,D,26.72,2024-03-09,2024-06-19,Resigned
+EMP0148,Darren Monroe,darren.monroe@company.com,IT,System Admin,D,30.38,2016-10-08,2022-08-22,Resigned
+EMP0149,Jocelyn Robinson,jocelyn.robinson@company.com,Marketing,SEO Specialist,D,28.3,2020-05-20,2023-09-01,Resigned
+EMP0150,Jill King,jill.king@company.com,Operations,Operations Analyst,C,14.81,2015-09-17,2017-05-26,Resigned
+EMP0151,Stephen Lopez,stephen.lopez@company.com,IT,Data Analyst,B,6.72,2020-06-01,2022-12-18,Resigned
+EMP0152,Matthew Mendoza,matthew.mendoza@company.com,HR,HR Executive,E,49.26,2020-08-09,2022-12-27,Resigned
+EMP0153,Susan Griffin,susan.griffin@company.com,Finance,Accountant,D,24.15,2016-05-03,2021-06-27,Resigned
+EMP0154,Claudia Evans,claudia.evans@company.com,R&D,Lab Technician,E,39.24,2023-10-06,2024-02-17,Resigned
+EMP0155,Robert Cooper,robert.cooper@company.com,Finance,Financial Analyst,B,8.17,2017-04-12,2024-05-10,Resigned
+EMP0156,Sara Frye,sara.frye@company.com,Operations,Operations Analyst,B,7.65,2020-02-02,,Active
+EMP0157,Manuel Davis,manuel.davis@company.com,Marketing,SEO Specialist,B,9.83,2018-08-06,2024-09-09,Resigned
+EMP0158,Catherine Reynolds,catherine.reynolds@company.com,HR,HR Manager,E,39.27,2023-09-09,2024-03-25,Resigned
+EMP0159,John Berger,john.berger@company.com,IT,System Admin,A,3.76,2017-10-29,,Active
+EMP0160,Katherine Edwards,katherine.edwards@company.com,HR,HR Manager,D,27.38,2016-08-28,2024-05-02,Resigned
+EMP0161,Tony Phillips,tony.phillips@company.com,Operations,Operations Executive,B,6.9,2024-01-08,2024-07-22,Resigned
+EMP0162,Eric Hunter,eric.hunter@company.com,IT,Software Engineer,B,6.71,2018-10-13,2024-02-22,Resigned
+EMP0163,Courtney Boone PhD,courtney.boone.phd@company.com,Marketing,Marketing Manager,E,38.39,2021-12-30,2022-09-29,Resigned
+EMP0164,Michael Russo,michael.russo@company.com,Sales,Sales Manager,C,18.88,2022-02-21,,Active
+EMP0165,David Herring,david.herring@company.com,IT,Software Engineer,E,49.4,2020-11-16,2023-10-09,Resigned
+EMP0166,Rose Peterson,rose.peterson@company.com,R&D,Research Scientist,B,7.59,2019-09-07,2019-12-28,Resigned
+EMP0167,Brittany Glenn,brittany.glenn@company.com,Finance,Accountant,E,36.13,2018-10-11,2024-11-04,Resigned
+EMP0168,Krista Jones,krista.jones@company.com,Sales,Business Development,E,42.05,2023-12-28,2025-05-27,Resigned
+EMP0169,Leslie Rodriguez,leslie.rodriguez@company.com,IT,Data Analyst,D,21.07,2023-06-26,2025-08-22,Resigned
+EMP0170,Allen Owens,allen.owens@company.com,IT,System Admin,D,21.72,2023-11-03,2024-12-07,Resigned
+EMP0171,Eric Hutchinson,eric.hutchinson@company.com,Finance,Financial Analyst,B,6.43,2019-10-06,2021-01-21,Resigned
+EMP0172,Savannah Wright,savannah.wright@company.com,IT,Data Analyst,D,21.87,2022-10-25,2025-05-31,Resigned
+EMP0173,Scott Swanson DVM,scott.swanson.dvm@company.com,Operations,Logistics Manager,C,16.0,2016-09-14,2016-12-13,Resigned
+EMP0174,Jeremy Gutierrez,jeremy.gutierrez@company.com,HR,HR Executive,A,5.67,2021-06-09,2023-06-14,Resigned
+EMP0175,Karen English,karen.english@company.com,Marketing,SEO Specialist,A,3.27,2024-04-25,,Active
+EMP0176,Michael Allison,michael.allison@company.com,R&D,Lab Technician,E,49.26,2024-04-01,,Active
+EMP0177,Cheryl Oliver,cheryl.oliver@company.com,Operations,Logistics Manager,E,35.6,2021-03-15,2021-08-01,Resigned
+EMP0178,Lori Smith,lori.smith@company.com,Sales,Business Development,D,33.74,2021-04-17,2021-12-26,Resigned
+EMP0179,John Hill,john.hill@company.com,Marketing,SEO Specialist,D,34.54,2018-04-21,2022-10-08,Resigned
+EMP0180,Amy Walker,amy.walker@company.com,Sales,Sales Manager,C,17.36,2019-11-04,,Active
+EMP0181,Nicole Vega,nicole.vega@company.com,IT,IT Manager,D,24.32,2023-09-11,,Active
+EMP0182,Richard Colon DDS,richard.colon.dds@company.com,R&D,Lab Technician,A,4.36,2018-01-13,2024-05-04,Resigned
+EMP0183,Larry Austin,larry.austin@company.com,IT,Software Engineer,D,32.97,2016-12-15,,Active
+EMP0184,Mark Riggs,mark.riggs@company.com,HR,HR Executive,E,41.93,2022-07-05,2023-12-26,Resigned
+EMP0185,Nicholas James,nicholas.james@company.com,Marketing,SEO Specialist,E,46.35,2020-10-06,2022-06-16,Resigned
+EMP0186,Brian Hurley,brian.hurley@company.com,R&D,Research Scientist,B,7.6,2022-12-28,2023-07-23,Resigned
+EMP0187,Emily Baldwin,emily.baldwin@company.com,IT,IT Manager,D,21.82,2022-08-23,,Active
+EMP0188,Briana Smith,briana.smith@company.com,Marketing,Marketing Executive,B,7.86,2023-04-29,2024-07-19,Resigned
+EMP0189,Edward Murphy,edward.murphy@company.com,Sales,Sales Executive,B,11.95,2018-04-07,,Active
+EMP0190,Robert Jones,robert.jones@company.com,Sales,Sales Executive,B,8.99,2018-09-17,2024-04-02,Resigned
+EMP0191,Danielle Navarro,danielle.navarro@company.com,Marketing,Marketing Manager,C,15.32,2016-03-02,2016-10-09,Resigned
+EMP0192,Melinda Cox,melinda.cox@company.com,Sales,Sales Executive,D,28.27,2023-12-31,2025-01-12,Resigned
+EMP0193,Cindy Hernandez,cindy.hernandez@company.com,Marketing,Marketing Manager,B,11.18,2016-01-02,2019-09-21,Resigned
+EMP0194,Chad Anderson,chad.anderson@company.com,R&D,Product Developer,C,19.47,2023-10-18,2025-04-22,Resigned
+EMP0195,Michele Jones,michele.jones@company.com,R&D,Research Scientist,C,17.81,2019-08-18,,Active
+EMP0196,Jocelyn Alvarez,jocelyn.alvarez@company.com,Marketing,Marketing Manager,D,32.98,2021-04-04,2025-08-05,Resigned
+EMP0197,Melissa Rogers,melissa.rogers@company.com,Sales,Sales Manager,C,16.42,2016-03-04,2024-10-04,Resigned
+EMP0198,Brandon Ramos,brandon.ramos@company.com,Sales,Sales Manager,B,11.88,2021-01-14,2022-07-03,Resigned
+EMP0199,Diana Porter,diana.porter@company.com,Sales,Sales Executive,D,20.65,2023-02-22,2024-05-18,Resigned
+EMP0200,Carol Robinson,carol.robinson@company.com,Operations,Logistics Manager,D,34.83,2016-08-08,2021-08-23,Resigned
+EMP0201,Steven Mccall,steven.mccall@company.com,Operations,Operations Executive,D,34.47,2018-05-16,2021-05-26,Resigned
+EMP0202,Marcia Smith,marcia.smith@company.com,Marketing,SEO Specialist,A,5.62,2016-01-11,2020-08-01,Resigned
+EMP0203,Christopher Thompson,christopher.thompson@company.com,Marketing,SEO Specialist,A,5.17,2015-11-17,2021-11-20,Resigned
+EMP0204,Sean Warner,sean.warner@company.com,Operations,Operations Executive,A,4.41,2023-09-02,,Active
+EMP0205,Danielle Smith,danielle.smith@company.com,IT,IT Manager,A,5.56,2022-07-09,,Active
+EMP0206,Sherri Mathis,sherri.mathis@company.com,R&D,Lab Technician,D,34.31,2018-11-10,2024-12-20,Resigned
+EMP0207,Chris Johnson,chris.johnson@company.com,R&D,Product Developer,E,35.54,2016-10-19,2024-06-08,Resigned
+EMP0208,Christian Perez,christian.perez@company.com,Operations,Operations Analyst,C,19.98,2023-09-09,2024-03-20,Resigned
+EMP0209,Joseph Jackson,joseph.jackson@company.com,Sales,Sales Executive,A,4.33,2019-09-08,2025-04-02,Resigned
+EMP0210,Jennifer Austin,jennifer.austin@company.com,HR,HR Manager,C,18.37,2017-09-20,2018-01-29,Resigned
+EMP0211,Carla Edwards,carla.edwards@company.com,IT,IT Manager,B,7.47,2020-12-03,2021-08-01,Resigned
+EMP0212,Valerie Colon,valerie.colon@company.com,Operations,Operations Executive,B,7.05,2023-05-05,2023-09-08,Resigned
+EMP0213,Randy Mcguire,randy.mcguire@company.com,Sales,Business Development,B,8.99,2021-06-28,2021-11-16,Resigned
+EMP0214,Dawn Robertson,dawn.robertson@company.com,Finance,Financial Analyst,C,15.68,2019-01-09,2024-08-29,Resigned
+EMP0215,Kurt Ward,kurt.ward@company.com,R&D,Product Developer,C,17.42,2021-03-06,2024-07-23,Resigned
+EMP0216,Casey Ingram,casey.ingram@company.com,Sales,Sales Manager,E,39.49,2021-01-12,,Active
+EMP0217,Eric Walsh,eric.walsh@company.com,Operations,Logistics Manager,D,32.68,2024-01-23,2024-08-10,Resigned
+EMP0218,Abigail Russell,abigail.russell@company.com,Sales,Sales Manager,A,3.71,2021-11-10,2024-04-26,Resigned
+EMP0219,Autumn Garrett,autumn.garrett@company.com,Marketing,SEO Specialist,C,12.18,2018-02-24,,Active
+EMP0220,Michael Kelly,michael.kelly@company.com,Sales,Sales Manager,A,4.7,2020-12-09,2024-11-18,Resigned
+EMP0221,Ronnie Johnson,ronnie.johnson@company.com,Operations,Operations Executive,E,46.18,2016-07-23,,Active
+EMP0222,Raven Perry,raven.perry@company.com,IT,System Admin,E,47.03,2021-07-07,2023-08-21,Resigned
+EMP0223,Thomas Roy,thomas.roy@company.com,Finance,Finance Manager,C,17.42,2024-08-08,2024-09-07,Resigned
+EMP0224,Steve Novak,steve.novak@company.com,Operations,Operations Analyst,B,9.77,2016-08-25,,Active
+EMP0225,Mrs. Veronica Clark,mrs..veronica.clark@company.com,Operations,Operations Executive,C,18.31,2017-10-30,2018-03-26,Resigned
+EMP0226,Randy King,randy.king@company.com,IT,System Admin,A,5.73,2017-10-22,2021-10-14,Resigned
+EMP0227,John Kaufman,john.kaufman@company.com,Sales,Sales Executive,B,6.79,2020-08-08,2023-03-09,Resigned
+EMP0228,Jennifer Ball,jennifer.ball@company.com,IT,Data Analyst,B,7.54,2018-01-31,,Active
+EMP0229,Jason Sullivan,jason.sullivan@company.com,Sales,Sales Manager,C,18.43,2020-11-17,2024-09-24,Resigned
+EMP0230,Jamie Garcia,jamie.garcia@company.com,HR,HR Manager,B,11.16,2020-04-20,2021-09-13,Resigned
+EMP0231,Christopher Murphy,christopher.murphy@company.com,Sales,Business Development,C,12.72,2020-01-22,2022-05-08,Resigned
+EMP0232,Kelly Perry,kelly.perry@company.com,IT,Software Engineer,D,25.53,2021-01-29,2022-05-01,Resigned
+EMP0233,Jennifer West,jennifer.west@company.com,IT,IT Manager,C,12.87,2021-07-27,2024-07-11,Resigned
+EMP0234,Phillip Pace,phillip.pace@company.com,HR,HR Executive,E,39.92,2022-08-02,2024-12-08,Resigned
+EMP0235,Brenda Walker,brenda.walker@company.com,Operations,Operations Executive,D,33.64,2021-11-08,2023-08-05,Resigned
+EMP0236,Gregory Combs,gregory.combs@company.com,Sales,Sales Executive,B,6.27,2020-04-21,2022-03-06,Resigned
+EMP0237,Gary Baker,gary.baker@company.com,Sales,Sales Executive,A,3.7,2023-08-07,2023-11-07,Resigned
+EMP0238,Jeffery Graham,jeffery.graham@company.com,Sales,Sales Manager,C,17.36,2019-05-15,2020-11-09,Resigned
+EMP0239,Julia Walker,julia.walker@company.com,Marketing,SEO Specialist,E,46.13,2019-07-11,2025-08-22,Resigned
+EMP0240,Brandon Barron,brandon.barron@company.com,Sales,Business Development,A,5.5,2020-09-28,2022-06-01,Resigned
+EMP0241,Kelly Miller,kelly.miller@company.com,IT,Software Engineer,C,13.74,2018-02-17,2025-01-30,Resigned
+EMP0242,Patricia Anthony,patricia.anthony@company.com,Finance,Financial Analyst,A,5.94,2023-07-17,2025-02-04,Resigned
+EMP0243,Kelly Johnson,kelly.johnson@company.com,Operations,Logistics Manager,A,4.19,2021-08-11,2022-11-08,Resigned
+EMP0244,Tabitha Rios,tabitha.rios@company.com,HR,Recruiter,A,4.99,2017-08-11,2020-09-27,Resigned
+EMP0245,Lisa Mccoy,lisa.mccoy@company.com,Marketing,Marketing Executive,A,5.36,2020-04-26,2023-08-13,Resigned
+EMP0246,Jessica Rivera,jessica.rivera@company.com,Finance,Finance Manager,B,6.41,2023-01-28,2023-04-06,Resigned
+EMP0247,Andrea Compton,andrea.compton@company.com,Finance,Finance Manager,B,10.88,2020-04-05,2022-08-25,Resigned
+EMP0248,Denise Lambert,denise.lambert@company.com,R&D,Research Scientist,E,35.04,2020-12-20,,Active
+EMP0249,Angela Baldwin,angela.baldwin@company.com,Finance,Accountant,E,38.76,2020-06-04,2021-02-19,Resigned
+EMP0250,Nicholas Brock,nicholas.brock@company.com,Operations,Operations Executive,B,6.09,2022-06-07,2024-07-30,Resigned
+EMP0251,James Dorsey,james.dorsey@company.com,Finance,Finance Manager,C,12.13,2016-03-29,2022-10-17,Resigned
+EMP0252,Randy Ramirez,randy.ramirez@company.com,Finance,Finance Manager,D,27.89,2015-12-14,2022-01-03,Resigned
+EMP0253,David Hendrix,david.hendrix@company.com,Sales,Sales Manager,C,16.11,2023-02-18,2025-07-06,Resigned
+EMP0254,Christopher Jimenez,christopher.jimenez@company.com,Marketing,Marketing Executive,E,35.65,2017-07-31,2018-11-21,Resigned
+EMP0255,Melanie Peters,melanie.peters@company.com,R&D,Lab Technician,E,39.52,2022-09-01,2024-10-11,Resigned
+EMP0256,Carolyn Salinas,carolyn.salinas@company.com,HR,HR Manager,D,32.71,2015-11-04,2023-10-07,Resigned
+EMP0257,Nicole Campbell,nicole.campbell@company.com,HR,Recruiter,D,21.1,2022-12-07,2025-08-26,Resigned
+EMP0258,Lucas Hale,lucas.hale@company.com,Marketing,Marketing Executive,A,3.38,2016-07-13,2022-06-17,Resigned
+EMP0259,Melissa Martinez,melissa.martinez@company.com,Marketing,Marketing Manager,C,15.05,2017-06-25,2025-02-01,Resigned
+EMP0260,Lindsey Sanchez,lindsey.sanchez@company.com,IT,IT Manager,E,44.08,2020-01-14,2024-10-03,Resigned
+EMP0261,Daniel Pope,daniel.pope@company.com,Operations,Operations Executive,E,45.81,2022-12-07,2024-07-24,Resigned
+EMP0262,Madison Deleon,madison.deleon@company.com,Sales,Sales Executive,D,25.08,2018-08-07,2024-03-15,Resigned
+EMP0263,Patricia Gonzalez,patricia.gonzalez@company.com,Sales,Business Development,A,3.94,2024-08-29,2024-10-22,Resigned
+EMP0264,Sandra Gardner,sandra.gardner@company.com,IT,Data Analyst,B,10.12,2023-02-19,2024-05-28,Resigned
+EMP0265,Benjamin Cameron,benjamin.cameron@company.com,HR,HR Manager,A,4.3,2019-10-20,2019-10-31,Resigned
+EMP0266,Ana Thompson,ana.thompson@company.com,IT,System Admin,E,35.9,2022-02-07,,Active
+EMP0267,Katie Gomez,katie.gomez@company.com,Marketing,SEO Specialist,A,4.23,2021-02-11,,Active
+EMP0268,Christine Blackburn,christine.blackburn@company.com,R&D,Product Developer,A,5.91,2018-01-13,2021-10-25,Resigned
+EMP0269,Kenneth Little,kenneth.little@company.com,IT,Software Engineer,E,42.61,2020-09-07,2025-04-21,Resigned
+EMP0270,Katelyn Wyatt,katelyn.wyatt@company.com,Sales,Sales Executive,A,4.05,2022-06-10,2025-07-09,Resigned
+EMP0271,Michael Brooks,michael.brooks@company.com,HR,Recruiter,E,38.39,2020-11-22,2021-08-23,Resigned
+EMP0272,Sara Hanna,sara.hanna@company.com,Marketing,Marketing Manager,E,45.12,2018-07-25,2025-06-11,Resigned
+EMP0273,Jodi Green,jodi.green@company.com,Marketing,Marketing Manager,C,12.23,2020-11-25,2025-03-22,Resigned
+EMP0274,Randall Powers,randall.powers@company.com,R&D,Product Developer,C,14.81,2016-11-25,2022-06-28,Resigned
+EMP0275,David Barron,david.barron@company.com,Finance,Finance Manager,D,21.04,2019-06-11,2025-07-17,Resigned
+EMP0276,Amanda Miller,amanda.miller@company.com,HR,HR Manager,E,38.23,2017-06-18,2019-01-14,Resigned
+EMP0277,Kenneth Roberts,kenneth.roberts@company.com,IT,System Admin,C,14.49,2024-01-10,2024-05-14,Resigned
+EMP0278,Joseph Stuart,joseph.stuart@company.com,Marketing,Marketing Manager,A,5.65,2018-10-08,2024-12-20,Resigned
+EMP0279,Tina Rhodes,tina.rhodes@company.com,R&D,Lab Technician,A,5.02,2017-09-15,2025-04-24,Resigned
+EMP0280,Timothy Barber,timothy.barber@company.com,Operations,Logistics Manager,D,29.11,2018-05-21,2024-08-10,Resigned
+EMP0281,Alexander Jenkins,alexander.jenkins@company.com,Finance,Finance Manager,A,4.04,2018-08-17,2023-06-25,Resigned
+EMP0282,Michael Rosario MD,michael.rosario.md@company.com,Operations,Operations Analyst,E,42.3,2018-05-02,2018-10-21,Resigned
+EMP0283,Ricky Adams,ricky.adams@company.com,HR,HR Manager,D,34.77,2022-12-15,2023-02-03,Resigned
+EMP0284,Gary Chaney,gary.chaney@company.com,Finance,Financial Analyst,B,10.6,2020-05-23,2023-06-03,Resigned
+EMP0285,Nicholas Cox,nicholas.cox@company.com,IT,Data Analyst,A,3.02,2022-03-26,2024-12-09,Resigned
+EMP0286,Samantha Salinas,samantha.salinas@company.com,Finance,Accountant,D,27.99,2022-02-28,2023-10-31,Resigned
+EMP0287,Robert Chan,robert.chan@company.com,Marketing,Marketing Manager,C,12.58,2018-02-15,,Active
+EMP0288,Jack Frey,jack.frey@company.com,HR,Recruiter,A,4.38,2022-07-10,2022-11-30,Resigned
+EMP0289,Deanna Ryan,deanna.ryan@company.com,IT,IT Manager,E,41.07,2021-01-18,2021-05-02,Resigned
+EMP0290,Sheila Rios,sheila.rios@company.com,IT,Software Engineer,D,20.31,2019-03-21,2021-11-26,Resigned
+EMP0291,Samantha Robertson,samantha.robertson@company.com,R&D,Lab Technician,D,32.48,2021-12-24,,Active
+EMP0292,Chad Baker,chad.baker@company.com,HR,Recruiter,A,3.73,2018-04-28,2020-12-02,Resigned
+EMP0293,Dr. Anna Hill,dr..anna.hill@company.com,Marketing,Marketing Executive,D,33.06,2016-10-03,2020-04-22,Resigned
+EMP0294,Christopher Wolf,christopher.wolf@company.com,Finance,Financial Analyst,B,6.46,2022-06-24,2022-11-26,Resigned
+EMP0295,Haley Campbell,haley.campbell@company.com,Marketing,Marketing Manager,B,11.44,2024-08-06,2024-11-12,Resigned
+EMP0296,Wesley Phillips,wesley.phillips@company.com,Operations,Operations Analyst,B,7.42,2020-10-24,2023-10-04,Resigned
+EMP0297,Jennifer Parker,jennifer.parker@company.com,Finance,Accountant,E,37.29,2017-06-11,2022-11-08,Resigned
+EMP0298,Angela Atkinson,angela.atkinson@company.com,HR,HR Manager,D,26.96,2022-01-16,2025-03-24,Resigned
+EMP0299,Mackenzie Martin,mackenzie.martin@company.com,Marketing,SEO Specialist,E,44.64,2019-01-20,,Active
+EMP0300,Olivia Oneal,olivia.oneal@company.com,IT,Data Analyst,B,8.64,2024-02-21,2025-07-18,Resigned
+EMP0301,Meagan Orr,meagan.orr@company.com,Operations,Logistics Manager,C,16.73,2016-12-24,2022-06-24,Resigned
+EMP0302,Phyllis Collins,phyllis.collins@company.com,HR,Recruiter,D,26.78,2024-05-26,2025-07-10,Resigned
+EMP0303,Michael Dunn,michael.dunn@company.com,R&D,Product Developer,A,4.93,2019-09-25,,Active
+EMP0304,Stephen Jefferson,stephen.jefferson@company.com,HR,HR Executive,E,42.61,2016-07-22,2024-04-23,Resigned
+EMP0305,Michele Bennett,michele.bennett@company.com,Marketing,Marketing Manager,A,4.35,2017-10-01,,Active
+EMP0306,Joe Ball,joe.ball@company.com,Operations,Operations Executive,C,16.84,2024-06-10,2025-04-01,Resigned
+EMP0307,Angela Nguyen,angela.nguyen@company.com,HR,Recruiter,A,5.43,2020-06-10,,Active
+EMP0308,Bryan Brown,bryan.brown@company.com,Operations,Operations Executive,E,44.69,2021-02-11,2024-09-18,Resigned
+EMP0309,Craig Clark DDS,craig.clark.dds@company.com,Operations,Logistics Manager,D,27.86,2022-04-23,2025-02-12,Resigned
+EMP0310,Eric Garcia,eric.garcia@company.com,IT,Data Analyst,C,15.1,2022-01-06,2022-03-14,Resigned
+EMP0311,Derek Dixon,derek.dixon@company.com,Operations,Operations Analyst,A,5.37,2016-09-30,2020-11-28,Resigned
+EMP0312,Emma Watts,emma.watts@company.com,HR,Recruiter,A,4.67,2022-11-19,2023-11-26,Resigned
+EMP0313,Daniel Houston,daniel.houston@company.com,IT,System Admin,C,12.65,2021-06-16,2022-11-12,Resigned
+EMP0314,Ryan Swanson,ryan.swanson@company.com,IT,Data Analyst,D,21.93,2022-01-26,2024-06-25,Resigned
+EMP0315,Eddie Johnson,eddie.johnson@company.com,HR,Recruiter,E,40.65,2022-09-06,2024-09-17,Resigned
+EMP0316,Sharon Rodriguez,sharon.rodriguez@company.com,R&D,Research Scientist,E,36.4,2017-07-31,2023-01-10,Resigned
+EMP0317,Nicole Mcdaniel,nicole.mcdaniel@company.com,Marketing,SEO Specialist,A,4.09,2019-12-23,2023-04-11,Resigned
+EMP0318,Alexis Martin,alexis.martin@company.com,Finance,Financial Analyst,D,22.88,2019-08-13,,Active
+EMP0319,Sheila Graham,sheila.graham@company.com,Finance,Accountant,C,18.76,2017-11-23,2022-11-18,Resigned
+EMP0320,Jesse Phillips,jesse.phillips@company.com,R&D,Lab Technician,E,35.57,2020-11-11,2025-08-03,Resigned
+EMP0321,Amanda Grant,amanda.grant@company.com,R&D,Lab Technician,B,9.58,2016-08-26,2017-12-28,Resigned
+EMP0322,Steven Rios,steven.rios@company.com,Finance,Finance Manager,E,47.14,2017-06-16,2025-02-23,Resigned
+EMP0323,Tanner Fox,tanner.fox@company.com,Sales,Sales Executive,D,25.46,2017-08-22,2021-12-29,Resigned
+EMP0324,Christopher Holmes,christopher.holmes@company.com,Sales,Business Development,C,18.02,2019-12-03,2025-02-09,Resigned
+EMP0325,Rebecca Wood,rebecca.wood@company.com,Finance,Finance Manager,B,7.86,2016-10-21,,Active
+EMP0326,Joseph Brown,joseph.brown@company.com,Sales,Sales Executive,C,17.43,2021-04-12,2024-09-02,Resigned
+EMP0327,Regina Johnson,regina.johnson@company.com,Sales,Sales Manager,C,18.22,2021-10-30,2023-05-26,Resigned
+EMP0328,Miguel Washington,miguel.washington@company.com,Sales,Sales Executive,B,10.81,2019-08-16,2022-10-27,Resigned
+EMP0329,Ashley Walker,ashley.walker@company.com,IT,Software Engineer,D,33.11,2021-01-22,2021-12-03,Resigned
+EMP0330,Lance Hampton,lance.hampton@company.com,HR,HR Executive,E,47.77,2024-07-18,2025-03-23,Resigned
+EMP0331,Daniel Brady,daniel.brady@company.com,R&D,Research Scientist,C,15.59,2019-10-22,2021-10-23,Resigned
+EMP0332,Tyler Blankenship,tyler.blankenship@company.com,R&D,Product Developer,A,5.84,2017-09-28,2019-03-10,Resigned
+EMP0333,Tammy Brown,tammy.brown@company.com,Sales,Sales Manager,A,4.24,2022-03-01,2022-05-02,Resigned
+EMP0334,Christopher Ruiz,christopher.ruiz@company.com,IT,System Admin,D,34.92,2016-07-01,2022-02-15,Resigned
+EMP0335,Barbara Marsh,barbara.marsh@company.com,HR,Recruiter,A,5.52,2020-03-10,2023-12-06,Resigned
+EMP0336,Erik Nichols,erik.nichols@company.com,R&D,Research Scientist,B,6.23,2016-02-17,,Active
+EMP0337,Mrs. Sherry Hernandez,mrs..sherry.hernandez@company.com,Sales,Business Development,B,10.55,2023-07-28,2025-03-06,Resigned
+EMP0338,Nathan Reed,nathan.reed@company.com,Marketing,Marketing Executive,A,3.06,2023-03-19,2023-06-08,Resigned
+EMP0339,Anna Tran,anna.tran@company.com,Finance,Finance Manager,E,42.92,2022-05-25,2025-02-14,Resigned
+EMP0340,Erica Galvan,erica.galvan@company.com,IT,System Admin,C,12.97,2017-11-26,2018-01-11,Resigned
+EMP0341,Amanda Campbell,amanda.campbell@company.com,Operations,Operations Analyst,D,20.94,2018-11-09,,Active
+EMP0342,Michael Alvarez,michael.alvarez@company.com,Sales,Business Development,E,35.25,2018-03-06,2024-04-21,Resigned
+EMP0343,Patrick Norton,patrick.norton@company.com,Finance,Finance Manager,B,7.75,2019-01-01,2019-09-14,Resigned
+EMP0344,David Davis,david.davis@company.com,IT,System Admin,E,41.25,2015-09-28,2022-03-16,Resigned
+EMP0345,Eric Mccoy,eric.mccoy@company.com,HR,HR Executive,C,12.54,2023-02-24,2024-07-01,Resigned
+EMP0346,Kimberly Nguyen,kimberly.nguyen@company.com,Marketing,Marketing Manager,E,35.31,2023-07-10,,Active
+EMP0347,Angela Doyle,angela.doyle@company.com,HR,HR Executive,D,34.72,2021-09-14,2021-10-28,Resigned
+EMP0348,Joseph Brown,joseph.brown@company.com,HR,Recruiter,A,4.03,2022-06-13,2025-08-25,Resigned
+EMP0349,Tony Duke,tony.duke@company.com,Operations,Operations Executive,E,46.03,2017-02-26,2017-08-06,Resigned
+EMP0350,Brandon Donaldson,brandon.donaldson@company.com,HR,Recruiter,E,40.08,2019-11-01,2024-06-09,Resigned
+EMP0351,Jeffery Hamilton PhD,jeffery.hamilton.phd@company.com,R&D,Lab Technician,D,34.71,2023-03-17,2024-08-16,Resigned
+EMP0352,Elizabeth French,elizabeth.french@company.com,Finance,Accountant,A,5.15,2015-10-26,,Active
+EMP0353,Robert Wong,robert.wong@company.com,HR,Recruiter,B,6.26,2022-01-26,2024-08-20,Resigned
+EMP0354,Richard Warren,richard.warren@company.com,HR,Recruiter,C,16.12,2020-08-26,,Active
+EMP0355,Ray Ward,ray.ward@company.com,Marketing,SEO Specialist,C,12.29,2019-04-15,2024-10-09,Resigned
+EMP0356,Steven Alexander,steven.alexander@company.com,IT,Data Analyst,A,5.6,2015-09-09,2021-06-29,Resigned
+EMP0357,Kenneth Kim,kenneth.kim@company.com,HR,Recruiter,D,33.34,2023-05-11,2023-09-24,Resigned
+EMP0358,John Monroe,john.monroe@company.com,Sales,Sales Manager,B,8.98,2023-12-15,2024-11-29,Resigned
+EMP0359,Todd Barber,todd.barber@company.com,R&D,Lab Technician,C,18.41,2023-08-15,2024-01-15,Resigned
+EMP0360,Ronald Mcmillan,ronald.mcmillan@company.com,HR,Recruiter,E,49.93,2016-02-19,2018-08-11,Resigned
+EMP0361,Douglas Trevino,douglas.trevino@company.com,IT,Data Analyst,A,3.24,2019-09-25,2024-04-08,Resigned
+EMP0362,Brittney Chapman,brittney.chapman@company.com,IT,IT Manager,E,45.76,2015-11-30,2016-01-09,Resigned
+EMP0363,Logan Leblanc,logan.leblanc@company.com,Sales,Sales Manager,D,20.64,2020-04-29,,Active
+EMP0364,Elizabeth Russell,elizabeth.russell@company.com,IT,IT Manager,C,17.12,2021-01-26,2023-10-21,Resigned
+EMP0365,Tyrone Thompson,tyrone.thompson@company.com,HR,HR Manager,D,25.45,2022-11-30,,Active
+EMP0366,Carlos Ruiz,carlos.ruiz@company.com,Operations,Operations Executive,A,3.43,2016-12-10,2024-04-22,Resigned
+EMP0367,Phillip Grant,phillip.grant@company.com,R&D,Product Developer,A,3.38,2016-09-13,2022-03-02,Resigned
+EMP0368,Bryan Malone,bryan.malone@company.com,Operations,Logistics Manager,C,15.06,2019-06-08,2022-01-16,Resigned
+EMP0369,Angela Edwards,angela.edwards@company.com,Marketing,Marketing Executive,D,34.23,2023-10-25,2025-04-27,Resigned
+EMP0370,Phillip Williams,phillip.williams@company.com,R&D,Research Scientist,E,37.07,2022-11-19,2024-07-16,Resigned
+EMP0371,Patricia Stuart,patricia.stuart@company.com,IT,Data Analyst,B,11.76,2023-09-03,2024-12-13,Resigned
+EMP0372,Nicole Smith,nicole.smith@company.com,Finance,Financial Analyst,E,40.8,2017-01-14,2021-11-07,Resigned
+EMP0373,Michael Lee,michael.lee@company.com,IT,Data Analyst,D,23.22,2017-08-20,2024-03-17,Resigned
+EMP0374,John Hill,john.hill@company.com,Operations,Logistics Manager,B,6.74,2020-02-18,,Active
+EMP0375,Travis Chapman,travis.chapman@company.com,Sales,Sales Executive,D,34.96,2021-08-20,,Active
+EMP0376,Alison Nelson,alison.nelson@company.com,R&D,Product Developer,C,17.68,2018-12-02,2022-01-22,Resigned
+EMP0377,Maria Wilson,maria.wilson@company.com,IT,Data Analyst,B,10.27,2022-12-27,,Active
+EMP0378,Paul Dunn,paul.dunn@company.com,Operations,Operations Executive,C,16.07,2016-06-13,2022-01-24,Resigned
+EMP0379,Catherine Jones,catherine.jones@company.com,Finance,Accountant,B,10.74,2020-04-11,2023-01-24,Resigned
+EMP0380,Michael May,michael.may@company.com,Marketing,Marketing Manager,C,15.74,2017-05-17,,Active
+EMP0381,Mark Parks,mark.parks@company.com,Finance,Finance Manager,A,3.2,2019-01-18,2022-04-20,Resigned
+EMP0382,Aaron Smith,aaron.smith@company.com,Operations,Operations Analyst,D,27.89,2021-01-08,2023-09-25,Resigned
+EMP0383,Matthew Sherman,matthew.sherman@company.com,R&D,Lab Technician,A,3.38,2015-09-17,2025-06-28,Resigned
+EMP0384,Jacob Ward,jacob.ward@company.com,HR,Recruiter,D,30.2,2022-03-28,2023-11-12,Resigned
+EMP0385,Maria Cruz,maria.cruz@company.com,R&D,Lab Technician,E,37.73,2016-05-06,,Active
+EMP0386,Tony Howard,tony.howard@company.com,Sales,Business Development,A,5.49,2023-12-11,2025-04-14,Resigned
+EMP0387,Bridget Santiago,bridget.santiago@company.com,IT,System Admin,B,7.94,2017-12-31,2022-09-30,Resigned
+EMP0388,Abigail Maldonado,abigail.maldonado@company.com,IT,Data Analyst,A,3.75,2024-02-07,2024-04-01,Resigned
+EMP0389,Tyrone Green,tyrone.green@company.com,Marketing,SEO Specialist,B,9.75,2020-01-25,2023-04-16,Resigned
+EMP0390,Edward Grimes,edward.grimes@company.com,HR,HR Executive,B,9.55,2017-07-19,2024-06-07,Resigned
+EMP0391,Christopher Martinez,christopher.martinez@company.com,Finance,Finance Manager,E,45.81,2021-07-07,2023-05-26,Resigned
+EMP0392,Regina Meadows,regina.meadows@company.com,R&D,Lab Technician,A,5.48,2022-12-28,2023-01-10,Resigned
+EMP0393,Jessica Walker,jessica.walker@company.com,HR,HR Executive,E,38.97,2019-09-27,2022-12-30,Resigned
+EMP0394,Amber Arnold,amber.arnold@company.com,Marketing,SEO Specialist,E,44.58,2017-07-07,2024-07-07,Resigned
+EMP0395,Melissa Gray,melissa.gray@company.com,Operations,Operations Analyst,C,17.14,2022-02-18,2025-06-07,Resigned
+EMP0396,Sara Johnson,sara.johnson@company.com,Finance,Finance Manager,D,24.46,2017-04-15,2024-03-12,Resigned
+EMP0397,Danielle Sherman,danielle.sherman@company.com,HR,HR Manager,D,26.23,2016-01-10,2022-06-23,Resigned
+EMP0398,Ryan Browning,ryan.browning@company.com,IT,System Admin,C,18.89,2023-05-27,2025-03-06,Resigned
+EMP0399,Kerry Alvarez,kerry.alvarez@company.com,R&D,Product Developer,D,21.96,2017-11-13,2021-08-06,Resigned
+EMP0400,Kimberly Taylor,kimberly.taylor@company.com,Marketing,Marketing Executive,C,13.93,2023-04-24,2024-12-12,Resigned
+EMP0401,Antonio Vasquez,antonio.vasquez@company.com,Sales,Sales Executive,B,6.58,2015-09-04,2016-11-14,Resigned
+EMP0402,Kim Anderson,kim.anderson@company.com,Sales,Business Development,D,23.72,2022-04-10,,Active
+EMP0403,Diane Scott,diane.scott@company.com,Finance,Financial Analyst,E,45.82,2017-08-10,2021-03-12,Resigned
+EMP0404,Alison Henderson,alison.henderson@company.com,Finance,Financial Analyst,E,42.0,2017-09-26,,Active
+EMP0405,Catherine Ward,catherine.ward@company.com,Sales,Sales Executive,A,5.84,2015-10-24,2025-03-16,Resigned
+EMP0406,Rebecca Campbell,rebecca.campbell@company.com,Finance,Accountant,E,40.29,2023-12-17,2024-10-02,Resigned
+EMP0407,Mary Haney,mary.haney@company.com,Sales,Business Development,D,24.29,2018-03-22,2023-12-27,Resigned
+EMP0408,Antonio Coleman,antonio.coleman@company.com,HR,Recruiter,B,11.29,2021-10-09,2023-01-23,Resigned
+EMP0409,Jacob Sullivan,jacob.sullivan@company.com,R&D,Product Developer,C,12.36,2018-09-05,2022-03-28,Resigned
+EMP0410,Daniel Keller,daniel.keller@company.com,Marketing,Marketing Executive,C,16.43,2021-04-01,2021-08-11,Resigned
+EMP0411,Austin Day,austin.day@company.com,Marketing,SEO Specialist,E,39.2,2021-10-11,,Active
+EMP0412,Allen Smith,allen.smith@company.com,Operations,Operations Analyst,A,3.39,2018-10-21,2022-12-30,Resigned
+EMP0413,Jennifer Gibson,jennifer.gibson@company.com,IT,Data Analyst,E,49.08,2017-05-21,2019-07-14,Resigned
+EMP0414,Richard Miller,richard.miller@company.com,Finance,Finance Manager,E,41.02,2024-08-04,2025-01-11,Resigned
+EMP0415,Randy Wise,randy.wise@company.com,HR,HR Manager,C,18.43,2022-01-02,2024-06-17,Resigned
+EMP0416,Rebekah Vance,rebekah.vance@company.com,Finance,Finance Manager,E,37.1,2024-05-24,,Active
+EMP0417,Michael Davis,michael.davis@company.com,IT,System Admin,D,34.86,2022-05-23,2022-08-11,Resigned
+EMP0418,April Smith,april.smith@company.com,IT,Data Analyst,E,47.42,2021-08-01,2025-08-19,Resigned
+EMP0419,Laura Brown,laura.brown@company.com,Operations,Operations Analyst,C,15.8,2019-07-02,2023-07-30,Resigned
+EMP0420,Marisa Neal,marisa.neal@company.com,IT,Software Engineer,D,28.76,2019-02-14,2024-09-08,Resigned
+EMP0421,Edward Blevins,edward.blevins@company.com,Operations,Operations Analyst,A,4.79,2019-06-03,2025-03-29,Resigned
+EMP0422,Shannon May,shannon.may@company.com,Operations,Operations Analyst,E,38.41,2023-11-21,2024-09-10,Resigned
+EMP0423,James Hardy,james.hardy@company.com,Sales,Sales Executive,E,44.44,2018-08-08,2025-05-26,Resigned
+EMP0424,Lisa Gross,lisa.gross@company.com,R&D,Product Developer,B,10.93,2020-12-17,2024-09-10,Resigned
+EMP0425,Anna Smith,anna.smith@company.com,Marketing,Marketing Manager,A,3.57,2023-01-24,2023-09-16,Resigned
+EMP0426,Curtis Parks,curtis.parks@company.com,Sales,Sales Executive,D,30.36,2024-06-25,2025-07-04,Resigned
+EMP0427,Elaine Fields,elaine.fields@company.com,R&D,Lab Technician,D,33.09,2023-08-14,2024-02-04,Resigned
+EMP0428,Vanessa Hinton,vanessa.hinton@company.com,HR,HR Executive,B,9.11,2020-12-15,2025-05-31,Resigned
+EMP0429,Michael Smith,michael.smith@company.com,Operations,Logistics Manager,E,40.65,2018-09-21,,Active
+EMP0430,Amy Pope,amy.pope@company.com,Sales,Business Development,C,16.37,2019-03-15,2021-07-17,Resigned
+EMP0431,Leah Guzman,leah.guzman@company.com,R&D,Lab Technician,C,16.88,2021-07-27,2023-11-30,Resigned
+EMP0432,Colin Webster,colin.webster@company.com,Finance,Financial Analyst,E,39.48,2024-01-15,,Active
+EMP0433,Megan Harrington,megan.harrington@company.com,IT,Data Analyst,B,10.14,2021-09-23,2021-12-17,Resigned
+EMP0434,Pamela Frederick,pamela.frederick@company.com,Sales,Sales Manager,E,49.01,2022-03-18,2022-09-15,Resigned
+EMP0435,Mrs. Jennifer Hopkins,mrs..jennifer.hopkins@company.com,IT,Data Analyst,A,4.72,2017-12-19,2025-02-16,Resigned
+EMP0436,Michaela Smith,michaela.smith@company.com,Sales,Sales Manager,B,7.74,2017-02-21,2024-03-03,Resigned
+EMP0437,Matthew Durham,matthew.durham@company.com,Operations,Operations Executive,C,19.39,2016-05-13,2023-12-21,Resigned
+EMP0438,Oscar Martinez,oscar.martinez@company.com,Operations,Logistics Manager,B,7.21,2018-03-12,2024-10-30,Resigned
+EMP0439,Dennis Ramos,dennis.ramos@company.com,Marketing,Marketing Manager,C,13.1,2018-02-20,2024-04-27,Resigned
+EMP0440,Nathan Francis,nathan.francis@company.com,Marketing,Marketing Executive,B,6.3,2024-04-07,,Active
+EMP0441,Keith Weiss,keith.weiss@company.com,Finance,Finance Manager,B,6.31,2020-05-14,2024-04-23,Resigned
+EMP0442,Megan Jones,megan.jones@company.com,Operations,Logistics Manager,A,5.04,2019-01-30,2022-03-24,Resigned
+EMP0443,Megan Perez,megan.perez@company.com,Marketing,Marketing Executive,D,29.79,2021-07-28,,Active
+EMP0444,Natalie Lopez,natalie.lopez@company.com,Sales,Sales Manager,B,10.54,2016-09-16,2024-02-12,Resigned
+EMP0445,Garrett Williamson,garrett.williamson@company.com,IT,Software Engineer,A,4.96,2017-05-15,2020-05-31,Resigned
+EMP0446,Shane Rodriguez,shane.rodriguez@company.com,Operations,Operations Analyst,A,5.74,2020-05-08,2025-06-02,Resigned
+EMP0447,Heather Farrell,heather.farrell@company.com,R&D,Research Scientist,A,5.99,2022-05-04,2025-01-06,Resigned
+EMP0448,Teresa Johnson,teresa.johnson@company.com,Sales,Sales Executive,C,19.01,2019-01-21,2021-03-09,Resigned
+EMP0449,Grant Johnson,grant.johnson@company.com,Marketing,Marketing Manager,A,5.79,2024-03-31,2024-07-12,Resigned
+EMP0450,Susan Bond,susan.bond@company.com,Sales,Business Development,E,42.86,2022-11-25,,Active
+EMP0451,Brandon Dougherty,brandon.dougherty@company.com,Finance,Finance Manager,D,24.09,2021-12-11,,Active
+EMP0452,Brian Robinson,brian.robinson@company.com,IT,System Admin,D,29.72,2020-07-18,2020-11-03,Resigned
+EMP0453,Sabrina Smith,sabrina.smith@company.com,HR,HR Executive,C,18.33,2018-06-26,2023-06-06,Resigned
+EMP0454,Dennis Espinoza,dennis.espinoza@company.com,R&D,Research Scientist,B,9.67,2015-12-02,2022-01-31,Resigned
+EMP0455,Jacqueline Durham,jacqueline.durham@company.com,Sales,Sales Manager,E,39.92,2022-02-21,2022-09-29,Resigned
+EMP0456,Leonard Walker,leonard.walker@company.com,HR,HR Manager,B,8.86,2024-07-02,,Active
+EMP0457,Matthew Lopez,matthew.lopez@company.com,HR,Recruiter,D,23.53,2018-12-24,2021-02-14,Resigned
+EMP0458,Frank Luna,frank.luna@company.com,IT,Data Analyst,E,45.84,2020-11-06,2021-09-12,Resigned
+EMP0459,Andrea Johnson,andrea.johnson@company.com,Operations,Logistics Manager,B,6.37,2021-11-30,2023-09-28,Resigned
+EMP0460,William Davis,william.davis@company.com,IT,System Admin,D,30.29,2016-12-18,,Active
+EMP0461,Sara Powell,sara.powell@company.com,Operations,Logistics Manager,A,4.92,2022-09-23,,Active
+EMP0462,Timothy Aguirre,timothy.aguirre@company.com,IT,System Admin,B,11.74,2023-09-10,2023-10-02,Resigned
+EMP0463,Kimberly Baldwin,kimberly.baldwin@company.com,Sales,Business Development,E,40.6,2020-11-24,2022-05-07,Resigned
+EMP0464,Derek Hernandez,derek.hernandez@company.com,Sales,Business Development,B,10.57,2021-10-01,2023-08-03,Resigned
+EMP0465,Thomas Sloan,thomas.sloan@company.com,Marketing,Marketing Executive,E,41.7,2020-01-14,2025-03-04,Resigned
+EMP0466,Jennifer Simpson,jennifer.simpson@company.com,HR,HR Executive,A,3.19,2019-09-10,2025-05-19,Resigned
+EMP0467,Emily Bauer,emily.bauer@company.com,Marketing,Marketing Executive,E,43.05,2015-11-25,2018-06-18,Resigned
+EMP0468,Kevin Johnson,kevin.johnson@company.com,R&D,Lab Technician,D,21.74,2016-08-26,2022-06-06,Resigned
+EMP0469,Larry Delgado,larry.delgado@company.com,Marketing,SEO Specialist,A,5.7,2021-10-30,2023-07-30,Resigned
+EMP0470,Courtney Mejia,courtney.mejia@company.com,HR,Recruiter,B,9.08,2017-02-15,2019-03-15,Resigned
+EMP0471,Timothy Robertson,timothy.robertson@company.com,HR,HR Executive,D,30.09,2023-05-31,2024-08-22,Resigned
+EMP0472,Faith Gomez,faith.gomez@company.com,HR,Recruiter,C,18.53,2018-08-03,2020-07-03,Resigned
+EMP0473,Angelica Mueller,angelica.mueller@company.com,Marketing,Marketing Executive,A,4.27,2016-07-10,2017-05-22,Resigned
+EMP0474,Sean Morales,sean.morales@company.com,Marketing,Marketing Executive,A,5.96,2019-07-23,2024-03-04,Resigned
+EMP0475,Mark Butler,mark.butler@company.com,IT,IT Manager,B,10.61,2020-10-29,2025-03-26,Resigned
+EMP0476,Jonathan Ramirez,jonathan.ramirez@company.com,Operations,Operations Analyst,D,25.62,2018-01-11,,Active
+EMP0477,Adam Adams,adam.adams@company.com,Sales,Sales Manager,D,21.2,2020-06-12,,Active
+EMP0478,Tiffany Johnson,tiffany.johnson@company.com,R&D,Lab Technician,B,9.92,2022-10-30,2023-08-28,Resigned
+EMP0479,Dylan Wade,dylan.wade@company.com,Finance,Finance Manager,D,27.93,2020-01-19,2021-03-30,Resigned
+EMP0480,Dr. Darrell Evans,dr..darrell.evans@company.com,Finance,Accountant,A,5.94,2016-04-13,2017-01-06,Resigned
+EMP0481,Megan Webb,megan.webb@company.com,Operations,Operations Analyst,D,27.98,2021-11-04,,Active
+EMP0482,John Santos,john.santos@company.com,Finance,Financial Analyst,C,13.24,2024-06-30,2024-11-10,Resigned
+EMP0483,Robert Davis,robert.davis@company.com,Operations,Operations Executive,A,5.43,2018-05-23,2025-04-23,Resigned
+EMP0484,Martin Brown,martin.brown@company.com,R&D,Research Scientist,B,7.24,2016-01-25,2024-08-28,Resigned
+EMP0485,Melissa Martinez,melissa.martinez@company.com,HR,Recruiter,E,45.08,2018-09-10,,Active
+EMP0486,Christina Rose,christina.rose@company.com,Finance,Finance Manager,A,4.21,2018-06-02,2025-04-30,Resigned
+EMP0487,Michael Johnson,michael.johnson@company.com,Finance,Accountant,B,9.02,2018-12-07,2024-07-03,Resigned
+EMP0488,Bryan Fritz,bryan.fritz@company.com,R&D,Lab Technician,E,39.78,2022-06-28,2025-01-15,Resigned
+EMP0489,Nicole Nunez,nicole.nunez@company.com,Operations,Logistics Manager,B,7.81,2020-02-21,2023-03-24,Resigned
+EMP0490,Meghan Allen,meghan.allen@company.com,Operations,Operations Analyst,B,8.48,2021-09-18,2022-04-09,Resigned
+EMP0491,Lori Jones,lori.jones@company.com,Marketing,Marketing Manager,B,9.76,2017-11-07,2025-05-16,Resigned
+EMP0492,Miguel Nichols,miguel.nichols@company.com,Sales,Sales Executive,C,19.53,2023-11-02,2024-06-01,Resigned
+EMP0493,Kimberly Ortega,kimberly.ortega@company.com,R&D,Lab Technician,C,17.57,2015-09-23,2023-02-16,Resigned
+EMP0494,Kaitlyn Mahoney,kaitlyn.mahoney@company.com,IT,IT Manager,B,10.53,2018-05-09,2020-10-03,Resigned
+EMP0495,Deborah Houston,deborah.houston@company.com,R&D,Research Scientist,C,18.86,2017-09-19,2019-01-30,Resigned
+EMP0496,Donald West,donald.west@company.com,Sales,Sales Executive,E,41.19,2024-02-28,2024-04-15,Resigned
+EMP0497,Mark Bryant,mark.bryant@company.com,Marketing,Marketing Executive,D,23.64,2023-12-23,2025-02-22,Resigned
+EMP0498,Jason Stewart,jason.stewart@company.com,Operations,Operations Executive,D,32.71,2017-11-03,2021-09-21,Resigned
+EMP0499,Tiffany Schultz,tiffany.schultz@company.com,Operations,Operations Executive,A,3.81,2021-03-26,2024-03-29,Resigned
+EMP0500,Tyler Little,tyler.little@company.com,Marketing,Marketing Executive,A,3.56,2022-11-13,2023-09-12,Resigned
+EMP0501,Dr. Denise Henderson,dr..denise.henderson@company.com,Operations,Operations Analyst,E,38.26,2022-06-01,2024-03-29,Resigned
+EMP0502,Mr. Brian Smith,mr..brian.smith@company.com,IT,Data Analyst,A,3.64,2018-09-12,2024-05-24,Resigned
+EMP0503,Rodney Hess,rodney.hess@company.com,Operations,Operations Executive,D,33.72,2024-04-02,2024-10-12,Resigned
+EMP0504,Randy Brown,randy.brown@company.com,Operations,Operations Executive,D,33.73,2017-02-25,2020-12-19,Resigned
+EMP0505,Taylor Alexander,taylor.alexander@company.com,R&D,Product Developer,D,26.99,2024-01-18,2024-08-26,Resigned
+EMP0506,Stephanie Pacheco,stephanie.pacheco@company.com,IT,Data Analyst,C,16.1,2018-03-02,2019-03-10,Resigned
+EMP0507,Jennifer Ewing,jennifer.ewing@company.com,HR,HR Executive,D,31.42,2020-06-16,2022-05-13,Resigned
+EMP0508,Donna Warren,donna.warren@company.com,Finance,Financial Analyst,C,15.31,2020-05-17,2021-08-17,Resigned
+EMP0509,Jessica Cervantes,jessica.cervantes@company.com,Finance,Finance Manager,B,6.1,2017-10-15,2019-03-31,Resigned
+EMP0510,Michael Wagner,michael.wagner@company.com,Marketing,Marketing Manager,D,24.43,2018-07-26,2020-10-15,Resigned
+EMP0511,Ryan Kelley,ryan.kelley@company.com,Finance,Financial Analyst,E,47.5,2019-11-28,2024-01-27,Resigned
+EMP0512,Benjamin Ortega,benjamin.ortega@company.com,Operations,Operations Analyst,C,14.06,2022-08-01,,Active
+EMP0513,Perry Allison,perry.allison@company.com,Operations,Operations Analyst,D,26.91,2016-02-09,2022-06-28,Resigned
+EMP0514,Michele Faulkner,michele.faulkner@company.com,IT,System Admin,B,10.32,2018-09-11,2024-01-25,Resigned
+EMP0515,Bill Morgan,bill.morgan@company.com,Marketing,Marketing Manager,A,4.57,2020-07-20,,Active
+EMP0516,Katie Murphy,katie.murphy@company.com,HR,HR Executive,A,5.29,2020-12-01,2025-07-03,Resigned
+EMP0517,Diana Rush,diana.rush@company.com,R&D,Lab Technician,B,6.41,2023-01-13,2023-07-19,Resigned
+EMP0518,Christopher Bowman,christopher.bowman@company.com,Finance,Finance Manager,D,25.6,2021-06-21,2023-03-28,Resigned
+EMP0519,Lori Soto,lori.soto@company.com,Operations,Operations Analyst,D,29.89,2016-10-25,2023-04-12,Resigned
+EMP0520,Kimberly Brewer,kimberly.brewer@company.com,Marketing,Marketing Manager,D,20.18,2020-08-20,2023-03-30,Resigned
+EMP0521,Jason Rivera,jason.rivera@company.com,IT,Data Analyst,A,4.51,2020-01-17,2025-08-30,Resigned
+EMP0522,Dr. Kevin Gonzalez IV,dr..kevin.gonzalez.iv@company.com,Sales,Sales Executive,A,5.75,2019-01-03,2022-07-14,Resigned
+EMP0523,Linda Payne,linda.payne@company.com,Finance,Accountant,E,42.9,2020-05-15,,Active
+EMP0524,Jesse Salinas,jesse.salinas@company.com,IT,IT Manager,A,4.12,2023-04-11,2023-10-01,Resigned
+EMP0525,Timothy Hood,timothy.hood@company.com,Marketing,Marketing Executive,B,7.8,2023-03-31,,Active
+EMP0526,Tara Webster,tara.webster@company.com,HR,HR Executive,A,3.28,2017-07-21,2022-02-13,Resigned
+EMP0527,Barbara Roberts,barbara.roberts@company.com,Marketing,SEO Specialist,A,4.91,2021-01-20,2021-09-17,Resigned
+EMP0528,Andres Bell,andres.bell@company.com,HR,Recruiter,D,29.67,2017-04-15,2021-07-30,Resigned
+EMP0529,Rachel Floyd,rachel.floyd@company.com,R&D,Research Scientist,E,48.79,2019-09-01,2023-02-25,Resigned
+EMP0530,Danielle Dillon,danielle.dillon@company.com,R&D,Lab Technician,E,42.13,2021-10-21,2023-10-16,Resigned
+EMP0531,Elizabeth Reeves,elizabeth.reeves@company.com,HR,HR Executive,C,19.19,2019-11-23,2019-12-14,Resigned
+EMP0532,Brian Bean,brian.bean@company.com,HR,HR Manager,C,12.13,2021-11-05,2022-12-18,Resigned
+EMP0533,Valerie Robinson,valerie.robinson@company.com,Finance,Finance Manager,D,33.93,2018-03-19,2020-08-23,Resigned
+EMP0534,Kelsey Reynolds,kelsey.reynolds@company.com,Marketing,Marketing Executive,E,47.52,2015-09-21,2020-04-13,Resigned
+EMP0535,Anthony Buchanan,anthony.buchanan@company.com,Marketing,SEO Specialist,D,31.33,2017-05-20,2017-12-11,Resigned
+EMP0536,Karen Taylor,karen.taylor@company.com,Operations,Operations Analyst,A,4.5,2016-10-19,,Active
+EMP0537,Mark Wolfe,mark.wolfe@company.com,HR,HR Manager,D,23.48,2019-10-09,2021-09-13,Resigned
+EMP0538,Heather Tanner,heather.tanner@company.com,Marketing,Marketing Manager,E,40.95,2018-05-06,2020-09-04,Resigned
+EMP0539,Mark Davis,mark.davis@company.com,HR,HR Executive,C,18.27,2024-03-15,2024-11-02,Resigned
+EMP0540,Michael Fowler,michael.fowler@company.com,Finance,Financial Analyst,E,49.12,2019-05-09,2019-10-17,Resigned
+EMP0541,Courtney Jarvis,courtney.jarvis@company.com,Operations,Operations Analyst,D,21.29,2018-03-31,2023-10-09,Resigned
+EMP0542,Raymond Braun,raymond.braun@company.com,R&D,Research Scientist,A,3.25,2020-05-28,2021-06-11,Resigned
+EMP0543,Bryan Little,bryan.little@company.com,Operations,Operations Analyst,B,10.44,2022-05-11,2025-04-18,Resigned
+EMP0544,Brittany Moore,brittany.moore@company.com,HR,HR Manager,A,5.83,2022-12-10,2023-07-31,Resigned
+EMP0545,Jason Scott,jason.scott@company.com,R&D,Product Developer,A,3.4,2021-06-04,2024-02-05,Resigned
+EMP0546,Diana Cardenas,diana.cardenas@company.com,Sales,Business Development,E,42.69,2017-09-21,2018-09-14,Resigned
+EMP0547,Dr. Joan Keller,dr..joan.keller@company.com,HR,Recruiter,E,36.4,2015-09-10,2018-10-29,Resigned
+EMP0548,Terry Palmer,terry.palmer@company.com,IT,IT Manager,A,3.88,2022-08-12,2024-04-14,Resigned
+EMP0549,Rachel Wheeler,rachel.wheeler@company.com,HR,HR Executive,E,48.58,2022-12-28,,Active
+EMP0550,Logan Hunter,logan.hunter@company.com,Marketing,Marketing Manager,B,10.11,2020-01-29,2021-12-02,Resigned
+EMP0551,Richard Reese,richard.reese@company.com,IT,Data Analyst,C,15.94,2017-10-12,2024-12-29,Resigned
+EMP0552,Elizabeth Copeland,elizabeth.copeland@company.com,Sales,Sales Manager,D,24.5,2018-09-15,2023-01-10,Resigned
+EMP0553,Lori Poole,lori.poole@company.com,IT,Data Analyst,B,10.33,2018-03-24,2018-06-21,Resigned
+EMP0554,Michael Valdez,michael.valdez@company.com,Marketing,Marketing Executive,D,21.6,2019-03-01,2020-12-02,Resigned
+EMP0555,Alexander Mathews,alexander.mathews@company.com,Sales,Sales Manager,E,40.7,2015-11-29,,Active
+EMP0556,Steven Brown,steven.brown@company.com,Sales,Sales Manager,D,32.23,2020-03-24,,Active
+EMP0557,Manuel Grimes,manuel.grimes@company.com,Marketing,Marketing Executive,C,14.57,2022-09-29,,Active
+EMP0558,April Smith,april.smith@company.com,Finance,Financial Analyst,C,13.42,2023-04-01,2024-07-05,Resigned
+EMP0559,Joseph Gonzales,joseph.gonzales@company.com,IT,Data Analyst,D,34.52,2022-03-30,2022-08-28,Resigned
+EMP0560,Courtney Wolfe,courtney.wolfe@company.com,IT,IT Manager,C,18.53,2024-03-26,2025-03-13,Resigned
+EMP0561,Sonya Peterson,sonya.peterson@company.com,HR,HR Executive,B,9.55,2018-07-16,2023-09-26,Resigned
+EMP0562,Jeffery Hunt,jeffery.hunt@company.com,Operations,Operations Analyst,A,5.86,2018-09-17,2019-08-02,Resigned
+EMP0563,Terri Larsen,terri.larsen@company.com,Operations,Operations Executive,D,31.97,2019-06-20,,Active
+EMP0564,Abigail Schneider,abigail.schneider@company.com,HR,Recruiter,D,22.09,2020-11-01,2022-01-12,Resigned
+EMP0565,Christina Greer,christina.greer@company.com,IT,System Admin,D,31.84,2017-04-13,2024-05-05,Resigned
+EMP0566,Vanessa Hernandez,vanessa.hernandez@company.com,Marketing,SEO Specialist,E,41.01,2017-02-01,2020-01-29,Resigned
+EMP0567,Oscar Brown,oscar.brown@company.com,R&D,Lab Technician,D,28.15,2018-05-18,2025-08-20,Resigned
+EMP0568,Jose Diaz,jose.diaz@company.com,IT,Software Engineer,A,5.31,2017-01-24,2021-10-04,Resigned
+EMP0569,Joshua Velazquez,joshua.velazquez@company.com,IT,System Admin,E,35.66,2021-05-03,,Active
+EMP0570,Sean Greene,sean.greene@company.com,Operations,Operations Analyst,D,34.5,2018-01-31,2022-02-07,Resigned
+EMP0571,Stephanie Acosta,stephanie.acosta@company.com,R&D,Product Developer,A,3.03,2022-12-04,2025-04-02,Resigned
+EMP0572,Samantha Allen,samantha.allen@company.com,Marketing,Marketing Manager,E,43.37,2023-06-06,2025-02-24,Resigned
+EMP0573,Tony Lucero,tony.lucero@company.com,Finance,Financial Analyst,C,15.13,2021-05-04,2022-11-06,Resigned
+EMP0574,William Mcbride,william.mcbride@company.com,Marketing,Marketing Manager,E,37.26,2020-09-24,,Active
+EMP0575,Jamie Fowler,jamie.fowler@company.com,Sales,Sales Executive,C,15.33,2020-04-08,,Active
+EMP0576,Kristen Ferguson,kristen.ferguson@company.com,HR,HR Executive,B,8.09,2023-08-31,2025-06-27,Resigned
+EMP0577,Ronald Smith,ronald.smith@company.com,R&D,Research Scientist,E,42.24,2019-01-21,2020-09-26,Resigned
+EMP0578,Julia Nelson,julia.nelson@company.com,Sales,Business Development,D,24.78,2019-02-14,2024-09-19,Resigned
+EMP0579,Scott Scott,scott.scott@company.com,R&D,Lab Technician,A,3.07,2015-10-19,2021-08-16,Resigned
+EMP0580,Brian Cunningham,brian.cunningham@company.com,HR,HR Executive,B,11.58,2017-07-17,2020-02-27,Resigned
+EMP0581,Ricky Johnson,ricky.johnson@company.com,Marketing,Marketing Executive,E,37.4,2023-01-06,2025-01-06,Resigned
+EMP0582,Jaime Jimenez,jaime.jimenez@company.com,Sales,Sales Executive,D,29.45,2022-11-10,2023-04-11,Resigned
+EMP0583,Kayla Carter,kayla.carter@company.com,Operations,Logistics Manager,D,20.44,2023-03-06,2024-11-03,Resigned
+EMP0584,Suzanne Mercado,suzanne.mercado@company.com,Finance,Financial Analyst,E,41.44,2018-02-19,2020-07-26,Resigned
+EMP0585,Amber Hall,amber.hall@company.com,Finance,Accountant,C,18.02,2021-05-02,,Active
+EMP0586,Daniel Johnson,daniel.johnson@company.com,HR,HR Executive,A,5.4,2024-05-25,2024-06-03,Resigned
+EMP0587,Todd Wagner,todd.wagner@company.com,IT,Data Analyst,B,8.75,2016-08-09,2017-07-06,Resigned
+EMP0588,Timothy Phillips,timothy.phillips@company.com,R&D,Product Developer,E,49.49,2023-05-20,2024-02-21,Resigned
+EMP0589,Veronica Snow,veronica.snow@company.com,Sales,Business Development,D,28.81,2018-03-16,2019-04-24,Resigned
+EMP0590,Sean Williams,sean.williams@company.com,R&D,Product Developer,E,37.59,2023-02-05,2023-12-27,Resigned
+EMP0591,Matthew Jennings,matthew.jennings@company.com,R&D,Product Developer,E,43.85,2021-09-18,2023-06-11,Resigned
+EMP0592,Edward Hess,edward.hess@company.com,IT,Software Engineer,B,7.83,2018-04-24,2025-02-12,Resigned
+EMP0593,Martha Ryan,martha.ryan@company.com,Operations,Operations Executive,E,40.83,2022-05-29,2024-10-05,Resigned
+EMP0594,Derek Walker,derek.walker@company.com,Marketing,SEO Specialist,D,22.79,2019-07-29,2025-04-05,Resigned
+EMP0595,Amanda Barry,amanda.barry@company.com,Operations,Operations Analyst,B,9.33,2018-06-21,2019-02-21,Resigned
+EMP0596,Mr. Matthew Jackson V,mr..matthew.jackson.v@company.com,Finance,Accountant,C,18.74,2023-06-19,2025-02-21,Resigned
+EMP0597,Edwin Hunter,edwin.hunter@company.com,R&D,Product Developer,A,4.45,2021-10-27,2024-09-16,Resigned
+EMP0598,Anthony Rasmussen,anthony.rasmussen@company.com,Sales,Business Development,E,44.8,2019-12-04,2025-01-16,Resigned
+EMP0599,Ruth Keller,ruth.keller@company.com,Sales,Sales Manager,D,27.33,2018-05-09,2021-09-30,Resigned
+EMP0600,Susan Chaney,susan.chaney@company.com,HR,HR Manager,C,12.26,2020-11-13,2022-11-18,Resigned
+EMP0601,Karen Everett,karen.everett@company.com,IT,System Admin,D,28.48,2021-03-18,2022-05-03,Resigned
+EMP0602,Kimberly Brown,kimberly.brown@company.com,Sales,Business Development,E,36.7,2016-05-08,2016-06-07,Resigned
+EMP0603,Lindsay Lewis,lindsay.lewis@company.com,R&D,Lab Technician,C,16.34,2016-03-18,2025-05-04,Resigned
+EMP0604,Abigail Schultz,abigail.schultz@company.com,R&D,Lab Technician,D,28.2,2018-04-12,,Active
+EMP0605,Micheal Bennett,micheal.bennett@company.com,HR,HR Executive,B,7.79,2023-01-09,,Active
+EMP0606,Gabriel Bradford,gabriel.bradford@company.com,Sales,Sales Manager,C,18.9,2019-07-05,2023-03-15,Resigned
+EMP0607,Mrs. Tiffany Smith,mrs..tiffany.smith@company.com,R&D,Research Scientist,B,7.26,2017-01-13,2024-12-04,Resigned
+EMP0608,Kristen Williams,kristen.williams@company.com,Operations,Logistics Manager,E,44.49,2023-07-20,2025-01-18,Resigned
+EMP0609,Monica Long,monica.long@company.com,Finance,Accountant,B,10.83,2018-11-03,2021-07-01,Resigned
+EMP0610,Laurie Deleon,laurie.deleon@company.com,Marketing,SEO Specialist,E,43.08,2020-06-12,2020-08-17,Resigned
+EMP0611,Sherri Johnson,sherri.johnson@company.com,Operations,Logistics Manager,C,16.58,2020-06-29,,Active
+EMP0612,Christy Evans,christy.evans@company.com,Marketing,Marketing Manager,A,3.41,2016-03-06,2019-08-14,Resigned
+EMP0613,Danielle Bishop,danielle.bishop@company.com,Sales,Sales Executive,C,18.94,2020-09-07,2025-02-20,Resigned
+EMP0614,Robert Hancock,robert.hancock@company.com,R&D,Research Scientist,B,6.88,2023-12-04,2024-07-28,Resigned
+EMP0615,Joshua Lester,joshua.lester@company.com,Finance,Finance Manager,D,27.34,2016-05-11,2020-10-11,Resigned
+EMP0616,Renee Melendez,renee.melendez@company.com,IT,IT Manager,D,26.78,2020-11-27,2023-11-28,Resigned
+EMP0617,Jessica Burns,jessica.burns@company.com,R&D,Research Scientist,D,27.73,2020-07-05,2021-12-16,Resigned
+EMP0618,Philip Stevens,philip.stevens@company.com,IT,IT Manager,D,24.91,2023-04-23,2023-10-16,Resigned
+EMP0619,Aaron Sosa,aaron.sosa@company.com,R&D,Lab Technician,A,5.19,2024-01-21,2024-03-06,Resigned
+EMP0620,Krystal Mccall,krystal.mccall@company.com,Operations,Operations Analyst,C,18.8,2020-04-10,2021-02-16,Resigned
+EMP0621,Terri Williams,terri.williams@company.com,Sales,Sales Executive,D,32.37,2018-08-28,2020-01-08,Resigned
+EMP0622,Thomas Banks,thomas.banks@company.com,IT,Data Analyst,C,16.38,2021-05-06,2023-02-05,Resigned
+EMP0623,Joan Townsend,joan.townsend@company.com,R&D,Product Developer,C,19.15,2019-02-28,2025-03-05,Resigned
+EMP0624,Teresa Whitney,teresa.whitney@company.com,HR,HR Manager,D,20.24,2017-01-01,,Active
+EMP0625,John Henry,john.henry@company.com,Finance,Financial Analyst,D,20.01,2017-04-07,,Active
+EMP0626,Cindy Warner,cindy.warner@company.com,Finance,Finance Manager,B,11.29,2021-09-26,2024-09-22,Resigned
+EMP0627,Samantha Gray,samantha.gray@company.com,R&D,Product Developer,A,4.96,2020-05-20,2023-10-26,Resigned
+EMP0628,John Lopez,john.lopez@company.com,IT,System Admin,A,4.19,2019-02-25,2023-07-16,Resigned
+EMP0629,Eduardo Marshall,eduardo.marshall@company.com,Operations,Operations Executive,D,29.83,2018-06-27,2019-12-24,Resigned
+EMP0630,Katherine Carter,katherine.carter@company.com,HR,HR Manager,D,21.17,2022-11-12,2024-09-29,Resigned
+EMP0631,Jennifer Miller,jennifer.miller@company.com,Marketing,Marketing Manager,D,20.14,2018-12-23,2024-04-25,Resigned
+EMP0632,Antonio Cook,antonio.cook@company.com,R&D,Research Scientist,D,30.41,2021-10-10,2023-10-31,Resigned
+EMP0633,Richard Oneill,richard.oneill@company.com,Finance,Financial Analyst,A,5.19,2015-10-02,2016-06-29,Resigned
+EMP0634,Christy Ball,christy.ball@company.com,IT,Data Analyst,C,13.1,2019-08-15,2024-01-01,Resigned
+EMP0635,James Baxter,james.baxter@company.com,R&D,Research Scientist,B,6.41,2018-01-20,2019-06-08,Resigned
+EMP0636,Kristopher Riley,kristopher.riley@company.com,Marketing,Marketing Manager,B,8.64,2020-11-09,2024-06-12,Resigned
+EMP0637,Nathan Davis,nathan.davis@company.com,Operations,Operations Analyst,B,11.52,2018-01-02,2024-06-18,Resigned
+EMP0638,Yolanda Dunn,yolanda.dunn@company.com,Sales,Sales Executive,A,5.69,2020-05-14,2020-06-03,Resigned
+EMP0639,Marisa Matthews,marisa.matthews@company.com,HR,HR Executive,D,25.27,2020-03-31,2023-04-09,Resigned
+EMP0640,William Pennington,william.pennington@company.com,R&D,Research Scientist,B,7.66,2022-11-18,2025-03-27,Resigned
+EMP0641,Jamie Hernandez,jamie.hernandez@company.com,Marketing,Marketing Manager,E,45.82,2019-08-28,2023-01-09,Resigned
+EMP0642,Michael Potter,michael.potter@company.com,Operations,Operations Executive,C,13.64,2017-11-29,2021-06-07,Resigned
+EMP0643,Courtney Duncan,courtney.duncan@company.com,Finance,Finance Manager,D,24.43,2024-01-14,2024-06-04,Resigned
+EMP0644,David Snow,david.snow@company.com,R&D,Research Scientist,D,25.79,2021-06-11,2024-05-18,Resigned
+EMP0645,Paula Kim,paula.kim@company.com,Operations,Operations Analyst,A,4.58,2024-07-22,,Active
+EMP0646,Jennifer Goodwin,jennifer.goodwin@company.com,IT,Data Analyst,B,8.32,2017-12-01,,Active
+EMP0647,Matthew Young,matthew.young@company.com,Sales,Sales Manager,E,45.24,2021-11-25,2025-05-05,Resigned
+EMP0648,Terry Lopez,terry.lopez@company.com,R&D,Research Scientist,A,4.76,2022-11-19,2023-11-26,Resigned
+EMP0649,Linda Jacobs,linda.jacobs@company.com,Finance,Accountant,A,5.85,2020-07-28,2023-08-20,Resigned
+EMP0650,Walter Flores,walter.flores@company.com,IT,IT Manager,D,30.53,2018-01-13,2022-01-21,Resigned
+EMP0651,Robert Wilson,robert.wilson@company.com,Marketing,Marketing Manager,E,37.29,2019-09-21,2020-05-14,Resigned
+EMP0652,Lori Goodwin,lori.goodwin@company.com,HR,HR Executive,B,11.85,2020-03-01,2023-06-16,Resigned
+EMP0653,Stephanie Waller,stephanie.waller@company.com,IT,IT Manager,E,44.51,2016-10-15,,Active
+EMP0654,Pamela Landry,pamela.landry@company.com,Operations,Operations Analyst,A,3.93,2020-09-23,2023-08-12,Resigned
+EMP0655,Jessica Marshall,jessica.marshall@company.com,R&D,Research Scientist,A,3.73,2017-08-30,,Active
+EMP0656,Caroline Alvarado,caroline.alvarado@company.com,HR,Recruiter,E,44.13,2019-05-17,2020-04-18,Resigned
+EMP0657,Jessica Rose,jessica.rose@company.com,Operations,Operations Analyst,B,6.72,2018-01-08,2018-12-09,Resigned
+EMP0658,Jonathan Smith Jr.,jonathan.smith.jr.@company.com,Operations,Operations Executive,B,8.98,2018-02-18,2023-08-26,Resigned
+EMP0659,Andrea Rivera,andrea.rivera@company.com,Marketing,Marketing Manager,C,13.34,2022-06-01,2024-01-31,Resigned
+EMP0660,Joseph Perez,joseph.perez@company.com,R&D,Product Developer,A,5.31,2019-12-07,2024-04-20,Resigned
+EMP0661,Tracey Aguilar,tracey.aguilar@company.com,R&D,Product Developer,C,16.19,2021-01-16,2021-04-11,Resigned
+EMP0662,Thomas Vega,thomas.vega@company.com,Marketing,Marketing Manager,A,4.49,2016-02-19,2020-11-05,Resigned
+EMP0663,Adam Garcia,adam.garcia@company.com,HR,Recruiter,E,37.5,2022-01-09,2022-07-20,Resigned
+EMP0664,Thomas Walker,thomas.walker@company.com,R&D,Research Scientist,E,45.11,2023-08-13,2023-08-25,Resigned
+EMP0665,Renee Becker,renee.becker@company.com,Operations,Operations Analyst,A,3.13,2019-08-25,,Active
+EMP0666,Melissa Taylor,melissa.taylor@company.com,Finance,Accountant,D,25.46,2023-06-22,,Active
+EMP0667,Christina Krause,christina.krause@company.com,Finance,Accountant,E,47.05,2018-08-20,2021-05-08,Resigned
+EMP0668,Adam Williams,adam.williams@company.com,Operations,Logistics Manager,B,7.93,2023-09-21,2024-04-21,Resigned
+EMP0669,Bridget Price,bridget.price@company.com,Operations,Logistics Manager,C,18.61,2021-04-18,2022-10-21,Resigned
+EMP0670,Brittany Bishop,brittany.bishop@company.com,HR,HR Executive,A,3.54,2021-04-12,,Active
+EMP0671,Justin Petty,justin.petty@company.com,HR,Recruiter,A,5.63,2016-01-07,,Active
+EMP0672,Paula Koch,paula.koch@company.com,R&D,Product Developer,C,12.69,2017-08-01,2022-12-05,Resigned
+EMP0673,Dawn Davis,dawn.davis@company.com,IT,System Admin,C,16.51,2018-03-10,2019-07-11,Resigned
+EMP0674,James Wallace,james.wallace@company.com,Marketing,Marketing Executive,D,25.52,2019-08-22,,Active
+EMP0675,Douglas Lynch MD,douglas.lynch.md@company.com,R&D,Research Scientist,E,46.41,2021-10-16,2024-07-01,Resigned
+EMP0676,Adrian Sparks,adrian.sparks@company.com,HR,Recruiter,A,3.7,2018-05-29,2023-10-16,Resigned
+EMP0677,Timothy Gomez,timothy.gomez@company.com,R&D,Lab Technician,A,5.85,2019-08-27,2025-05-31,Resigned
+EMP0678,Daniel Greene,daniel.greene@company.com,Operations,Logistics Manager,C,12.83,2019-06-28,2023-01-23,Resigned
+EMP0679,Courtney Warren,courtney.warren@company.com,Finance,Financial Analyst,D,34.42,2023-10-10,,Active
+EMP0680,Alexander Wong,alexander.wong@company.com,Finance,Finance Manager,C,12.74,2016-06-01,,Active
+EMP0681,Patricia Williams,patricia.williams@company.com,R&D,Lab Technician,D,30.51,2015-11-07,2020-08-21,Resigned
+EMP0682,Robert Davis,robert.davis@company.com,Operations,Operations Executive,E,36.43,2021-05-20,2023-08-01,Resigned
+EMP0683,Deborah Soto,deborah.soto@company.com,R&D,Product Developer,A,4.78,2018-09-20,2024-11-09,Resigned
+EMP0684,Stacy Gilbert MD,stacy.gilbert.md@company.com,Operations,Operations Executive,B,7.75,2020-06-27,,Active
+EMP0685,Jessica Nash,jessica.nash@company.com,R&D,Product Developer,C,14.54,2023-07-21,2024-06-10,Resigned
+EMP0686,Derrick Smith,derrick.smith@company.com,HR,HR Manager,B,10.68,2023-11-19,2024-05-16,Resigned
+EMP0687,Dominique Gross,dominique.gross@company.com,Finance,Accountant,B,8.7,2022-01-18,2023-03-25,Resigned
+EMP0688,Heather Lowe,heather.lowe@company.com,HR,HR Executive,C,19.72,2022-06-06,2023-12-10,Resigned
+EMP0689,Daniel Hernandez,daniel.hernandez@company.com,IT,IT Manager,C,18.82,2023-02-17,2023-08-04,Resigned
+EMP0690,Regina Kaufman,regina.kaufman@company.com,R&D,Lab Technician,C,18.61,2020-01-05,2022-10-21,Resigned
+EMP0691,Patricia Beasley,patricia.beasley@company.com,HR,HR Manager,C,13.19,2023-01-05,2024-09-17,Resigned
+EMP0692,Tiffany Ford,tiffany.ford@company.com,IT,IT Manager,E,35.73,2016-05-15,2024-01-03,Resigned
+EMP0693,Jonathan Waters,jonathan.waters@company.com,R&D,Research Scientist,A,5.86,2021-01-25,,Active
+EMP0694,Jordan Woods,jordan.woods@company.com,Marketing,Marketing Manager,E,38.75,2017-11-19,2020-02-02,Resigned
+EMP0695,Nicholas Morris,nicholas.morris@company.com,R&D,Research Scientist,A,3.04,2019-05-07,,Active
+EMP0696,Maria Reed,maria.reed@company.com,Finance,Accountant,B,10.94,2022-06-02,2024-10-27,Resigned
+EMP0697,Gregory Ryan,gregory.ryan@company.com,Operations,Operations Analyst,A,4.75,2024-02-02,2024-09-09,Resigned
+EMP0698,Shirley Bush,shirley.bush@company.com,R&D,Research Scientist,A,5.99,2016-03-20,2024-12-16,Resigned
+EMP0699,Ashley Hardy,ashley.hardy@company.com,Operations,Logistics Manager,B,6.55,2023-05-19,,Active
+EMP0700,Jesse Nichols,jesse.nichols@company.com,R&D,Product Developer,A,3.13,2024-06-04,2025-03-29,Resigned
+EMP0701,Travis Jackson,travis.jackson@company.com,Finance,Finance Manager,D,32.33,2022-03-31,2023-02-14,Resigned
+EMP0702,Monique Foster,monique.foster@company.com,HR,Recruiter,D,22.59,2020-10-25,2025-03-18,Resigned
+EMP0703,Kristen Long,kristen.long@company.com,Finance,Financial Analyst,C,15.57,2021-07-31,2023-09-18,Resigned
+EMP0704,Ms. Denise Murphy DVM,ms..denise.murphy.dvm@company.com,Marketing,Marketing Manager,E,38.69,2023-10-29,2024-11-04,Resigned
+EMP0705,Stephanie Moore,stephanie.moore@company.com,Sales,Business Development,D,20.91,2024-07-11,2025-03-22,Resigned
+EMP0706,Kelly Gibbs,kelly.gibbs@company.com,Finance,Financial Analyst,B,9.86,2016-06-09,2018-01-26,Resigned
+EMP0707,Amber Carlson,amber.carlson@company.com,Finance,Finance Manager,E,46.92,2018-11-17,,Active
+EMP0708,Kyle Foster,kyle.foster@company.com,R&D,Lab Technician,C,15.84,2024-03-12,2024-06-23,Resigned
+EMP0709,Joseph Torres,joseph.torres@company.com,IT,Data Analyst,D,24.06,2015-10-29,2016-09-19,Resigned
+EMP0710,Arthur Gordon,arthur.gordon@company.com,Marketing,Marketing Executive,A,5.69,2020-11-29,2024-10-06,Resigned
+EMP0711,Mr. Shane Guerra PhD,mr..shane.guerra.phd@company.com,HR,Recruiter,E,40.36,2019-05-04,2024-05-17,Resigned
+EMP0712,Michael Garrett,michael.garrett@company.com,Finance,Accountant,A,3.74,2023-03-22,2025-06-22,Resigned
+EMP0713,Jerry Perry,jerry.perry@company.com,Marketing,Marketing Manager,A,5.29,2023-01-06,,Active
+EMP0714,Casey Sampson,casey.sampson@company.com,Marketing,SEO Specialist,C,19.48,2022-08-27,,Active
+EMP0715,Jennifer Hester,jennifer.hester@company.com,Finance,Accountant,B,9.56,2018-10-22,,Active
+EMP0716,Ashley Pugh,ashley.pugh@company.com,Operations,Logistics Manager,E,35.42,2020-12-10,2023-01-26,Resigned
+EMP0717,Andrew Jones,andrew.jones@company.com,Marketing,Marketing Manager,B,9.38,2021-03-19,2023-12-23,Resigned
+EMP0718,Caitlin Cordova,caitlin.cordova@company.com,R&D,Product Developer,E,39.64,2022-01-28,2022-07-11,Resigned
+EMP0719,Shawn Burns,shawn.burns@company.com,HR,HR Manager,B,9.61,2020-06-08,2023-04-06,Resigned
+EMP0720,James Williams,james.williams@company.com,Sales,Sales Executive,C,19.34,2019-11-23,2023-02-04,Resigned
+EMP0721,Joy Graham,joy.graham@company.com,Finance,Financial Analyst,B,11.51,2022-11-19,,Active
+EMP0722,Maria Mcfarland,maria.mcfarland@company.com,IT,Software Engineer,A,3.44,2022-09-01,2022-11-09,Resigned
+EMP0723,William Murphy,william.murphy@company.com,Finance,Accountant,E,47.91,2021-05-26,,Active
+EMP0724,David Fletcher,david.fletcher@company.com,IT,IT Manager,E,36.52,2020-11-29,2021-01-04,Resigned
+EMP0725,Amber Anderson,amber.anderson@company.com,Finance,Accountant,D,31.88,2024-06-20,,Active
+EMP0726,Laurie Jacobs,laurie.jacobs@company.com,Operations,Logistics Manager,B,10.24,2022-03-19,2023-12-21,Resigned
+EMP0727,Randall Warner,randall.warner@company.com,Marketing,SEO Specialist,B,9.99,2020-01-01,,Active
+EMP0728,Cynthia Jones,cynthia.jones@company.com,Sales,Sales Manager,C,13.02,2015-11-24,2022-11-24,Resigned
+EMP0729,Emily Barrett,emily.barrett@company.com,Operations,Operations Analyst,D,32.76,2024-06-10,2025-07-31,Resigned
+EMP0730,Mark Smith,mark.smith@company.com,Marketing,Marketing Executive,B,9.61,2017-12-22,,Active
+EMP0731,Timothy Garcia,timothy.garcia@company.com,Marketing,Marketing Executive,E,36.56,2016-12-21,2019-07-18,Resigned
+EMP0732,Angela Anthony,angela.anthony@company.com,IT,Software Engineer,B,8.08,2019-04-17,2022-07-06,Resigned
+EMP0733,Amy Orr,amy.orr@company.com,Operations,Operations Executive,C,15.57,2016-03-10,2019-12-17,Resigned
+EMP0734,Jessica Mitchell,jessica.mitchell@company.com,Finance,Finance Manager,A,4.05,2017-08-09,2017-09-23,Resigned
+EMP0735,Whitney Walker,whitney.walker@company.com,Operations,Operations Executive,A,4.16,2017-11-08,2018-08-14,Resigned
+EMP0736,Matthew Wilson,matthew.wilson@company.com,Finance,Financial Analyst,D,33.23,2018-01-05,2024-06-27,Resigned
+EMP0737,Edward Allison,edward.allison@company.com,Sales,Sales Executive,D,31.83,2019-07-29,2022-02-04,Resigned
+EMP0738,Tara Graves,tara.graves@company.com,R&D,Lab Technician,B,6.98,2017-08-25,2023-01-02,Resigned
+EMP0739,Amy Kidd,amy.kidd@company.com,R&D,Research Scientist,C,12.16,2020-04-14,2021-12-05,Resigned
+EMP0740,Travis Hernandez,travis.hernandez@company.com,HR,HR Manager,C,13.36,2016-01-27,2020-03-09,Resigned
+EMP0741,Patricia Fowler,patricia.fowler@company.com,Operations,Operations Executive,E,49.13,2023-06-06,,Active
+EMP0742,Kathryn Rodriguez,kathryn.rodriguez@company.com,IT,IT Manager,A,4.29,2019-07-28,2025-05-18,Resigned
+EMP0743,Amanda West,amanda.west@company.com,Marketing,SEO Specialist,B,6.32,2021-09-08,2023-08-13,Resigned
+EMP0744,Jessica George,jessica.george@company.com,Finance,Financial Analyst,E,45.83,2019-06-29,2025-03-21,Resigned
+EMP0745,Kenneth Garcia,kenneth.garcia@company.com,IT,Data Analyst,C,13.9,2023-12-31,2025-05-14,Resigned
+EMP0746,Gregory Alvarez,gregory.alvarez@company.com,Marketing,Marketing Manager,D,22.3,2022-02-18,2025-05-05,Resigned
+EMP0747,Carol Smith,carol.smith@company.com,Sales,Sales Executive,C,18.59,2021-10-23,2025-04-10,Resigned
+EMP0748,Shannon Sparks,shannon.sparks@company.com,Sales,Sales Executive,A,3.08,2017-07-09,2018-11-30,Resigned
+EMP0749,Sherri Mcclure,sherri.mcclure@company.com,IT,Software Engineer,D,32.66,2023-11-28,2024-11-09,Resigned
+EMP0750,Amanda Gibson,amanda.gibson@company.com,Sales,Sales Manager,D,33.42,2024-04-29,2025-05-29,Resigned
+EMP0751,Jeremiah Hernandez,jeremiah.hernandez@company.com,Operations,Operations Analyst,D,22.77,2024-01-06,,Active
+EMP0752,Brian Roberts,brian.roberts@company.com,IT,System Admin,D,20.67,2023-10-08,2024-01-04,Resigned
+EMP0753,Heather Harding,heather.harding@company.com,IT,System Admin,C,16.51,2021-03-15,2021-10-15,Resigned
+EMP0754,James Brock,james.brock@company.com,Operations,Operations Analyst,A,3.26,2020-01-10,2022-06-18,Resigned
+EMP0755,Lori Blanchard,lori.blanchard@company.com,Marketing,SEO Specialist,E,38.41,2023-08-01,2025-08-19,Resigned
+EMP0756,Oscar Lowe,oscar.lowe@company.com,Sales,Business Development,D,34.48,2021-04-07,2022-12-16,Resigned
+EMP0757,Olivia Sullivan,olivia.sullivan@company.com,Sales,Business Development,B,8.86,2016-04-25,2018-08-06,Resigned
+EMP0758,Christine Stevens,christine.stevens@company.com,R&D,Lab Technician,A,4.51,2017-12-10,,Active
+EMP0759,Matthew Schultz DDS,matthew.schultz.dds@company.com,R&D,Lab Technician,E,37.21,2022-02-28,,Active
+EMP0760,Taylor Pacheco,taylor.pacheco@company.com,Sales,Sales Executive,B,11.83,2017-03-17,,Active
+EMP0761,Edward Ross,edward.ross@company.com,Finance,Accountant,D,21.18,2021-07-19,2024-10-21,Resigned
+EMP0762,Julie Smith,julie.smith@company.com,Finance,Finance Manager,B,11.0,2015-09-29,2023-06-16,Resigned
+EMP0763,Kristen Colon,kristen.colon@company.com,Operations,Operations Executive,A,4.16,2022-11-14,2024-05-27,Resigned
+EMP0764,Erika Taylor,erika.taylor@company.com,IT,Data Analyst,E,41.87,2016-08-16,,Active
+EMP0765,Samantha Edwards,samantha.edwards@company.com,R&D,Lab Technician,E,43.81,2024-08-23,2025-05-16,Resigned
+EMP0766,Tony Gregory,tony.gregory@company.com,HR,Recruiter,B,6.89,2017-12-07,2020-04-01,Resigned
+EMP0767,Margaret Russell,margaret.russell@company.com,R&D,Research Scientist,A,4.69,2018-02-11,2021-06-09,Resigned
+EMP0768,Margaret Myers,margaret.myers@company.com,IT,Data Analyst,D,23.96,2021-09-03,2024-06-02,Resigned
+EMP0769,Janet Owens,janet.owens@company.com,Marketing,Marketing Manager,D,20.56,2023-05-18,2023-08-28,Resigned
+EMP0770,Andrew Clark,andrew.clark@company.com,Finance,Finance Manager,E,45.21,2021-12-06,2023-08-08,Resigned
+EMP0771,Kimberly Coleman,kimberly.coleman@company.com,Sales,Sales Manager,B,6.3,2022-04-01,2023-03-09,Resigned
+EMP0772,Angela Brown,angela.brown@company.com,IT,Data Analyst,A,4.01,2018-11-10,2025-04-25,Resigned
+EMP0773,James Mccormick,james.mccormick@company.com,IT,Data Analyst,D,32.87,2021-07-18,2025-08-01,Resigned
+EMP0774,Sarah Rojas,sarah.rojas@company.com,R&D,Research Scientist,B,7.8,2016-06-21,2019-05-19,Resigned
+EMP0775,Bryan Salazar,bryan.salazar@company.com,R&D,Product Developer,C,17.83,2020-10-24,2021-03-30,Resigned
+EMP0776,Susan Williams,susan.williams@company.com,HR,HR Manager,D,23.17,2023-08-01,,Active
+EMP0777,Scott Fitzpatrick,scott.fitzpatrick@company.com,Operations,Logistics Manager,E,48.01,2020-05-16,,Active
+EMP0778,Colleen Dominguez,colleen.dominguez@company.com,Marketing,Marketing Executive,A,3.93,2020-08-29,2022-08-25,Resigned
+EMP0779,Edward Sloan,edward.sloan@company.com,Finance,Finance Manager,E,35.43,2016-03-13,2021-03-04,Resigned
+EMP0780,Mr. Matthew Parrish,mr..matthew.parrish@company.com,R&D,Research Scientist,A,3.75,2016-05-23,2020-04-20,Resigned
+EMP0781,Michael Johnston,michael.johnston@company.com,IT,System Admin,C,14.95,2015-09-18,2018-09-12,Resigned
+EMP0782,Jessica West,jessica.west@company.com,Sales,Business Development,A,5.04,2024-03-09,2025-05-15,Resigned
+EMP0783,Michael Weaver,michael.weaver@company.com,Sales,Business Development,D,22.66,2023-09-06,,Active
+EMP0784,Nicolas Green,nicolas.green@company.com,Marketing,Marketing Manager,C,14.75,2024-03-30,,Active
+EMP0785,Kimberly Jackson,kimberly.jackson@company.com,IT,Software Engineer,C,12.22,2021-09-19,2022-09-23,Resigned
+EMP0786,Jeffrey Wagner,jeffrey.wagner@company.com,R&D,Lab Technician,B,11.14,2021-07-07,2022-03-20,Resigned
+EMP0787,Matthew Pollard,matthew.pollard@company.com,Operations,Operations Executive,C,17.21,2018-02-26,2021-12-15,Resigned
+EMP0788,Patricia Day,patricia.day@company.com,R&D,Lab Technician,A,4.42,2022-10-28,2023-06-11,Resigned
+EMP0789,Shannon Calderon,shannon.calderon@company.com,Finance,Finance Manager,A,3.67,2019-04-11,2024-05-17,Resigned
+EMP0790,Dawn Thomas,dawn.thomas@company.com,IT,Data Analyst,D,33.43,2019-02-11,,Active
+EMP0791,Benjamin Sheppard,benjamin.sheppard@company.com,Sales,Sales Manager,B,8.8,2019-10-09,2022-12-29,Resigned
+EMP0792,Lisa Morales,lisa.morales@company.com,R&D,Lab Technician,D,28.77,2016-10-02,2024-12-26,Resigned
+EMP0793,Michael Johnson,michael.johnson@company.com,Operations,Logistics Manager,E,44.71,2015-12-09,2019-03-27,Resigned
+EMP0794,Melissa Castillo,melissa.castillo@company.com,IT,Software Engineer,D,20.96,2020-03-08,,Active
+EMP0795,Valerie Morales,valerie.morales@company.com,Operations,Logistics Manager,C,14.09,2024-07-16,2025-08-19,Resigned
+EMP0796,Johnny Valdez,johnny.valdez@company.com,Operations,Logistics Manager,B,6.9,2023-06-13,2025-05-10,Resigned
+EMP0797,Tina Baker,tina.baker@company.com,HR,HR Executive,D,29.91,2020-04-04,2022-07-03,Resigned
+EMP0798,Terri Durham,terri.durham@company.com,Operations,Operations Executive,D,34.96,2016-04-06,2025-04-11,Resigned
+EMP0799,Wendy Anderson,wendy.anderson@company.com,Sales,Sales Manager,D,31.05,2018-01-19,2021-09-05,Resigned
+EMP0800,Anita Townsend,anita.townsend@company.com,Marketing,Marketing Executive,C,17.81,2021-02-07,2023-12-25,Resigned
+EMP0801,Jeffrey Aguilar,jeffrey.aguilar@company.com,Marketing,Marketing Manager,D,33.6,2017-10-17,2019-07-07,Resigned
+EMP0802,Brian Lewis,brian.lewis@company.com,Marketing,SEO Specialist,B,11.04,2024-08-27,,Active
+EMP0803,Todd Franklin,todd.franklin@company.com,Finance,Financial Analyst,A,4.41,2019-11-08,2020-10-21,Resigned
+EMP0804,Brenda Rodriguez,brenda.rodriguez@company.com,Operations,Operations Analyst,B,11.68,2023-11-24,,Active
+EMP0805,Kenneth Miller,kenneth.miller@company.com,Operations,Operations Executive,B,8.13,2016-09-10,2017-10-02,Resigned
+EMP0806,Nancy Moore,nancy.moore@company.com,IT,IT Manager,C,14.97,2024-04-18,2025-06-09,Resigned
+EMP0807,Edward James,edward.james@company.com,Sales,Sales Executive,D,20.81,2021-02-22,2021-08-27,Resigned
+EMP0808,Louis Gonzales,louis.gonzales@company.com,Marketing,Marketing Manager,A,4.42,2016-01-21,2024-02-02,Resigned
+EMP0809,Jared Palmer,jared.palmer@company.com,HR,HR Executive,D,27.95,2023-11-02,2025-02-09,Resigned
+EMP0810,Philip Lewis,philip.lewis@company.com,R&D,Research Scientist,B,11.95,2019-08-16,2022-04-17,Resigned
+EMP0811,Gina Valdez,gina.valdez@company.com,Marketing,SEO Specialist,B,7.9,2016-02-14,2023-11-12,Resigned
+EMP0812,Ann Smith,ann.smith@company.com,R&D,Research Scientist,D,24.99,2021-08-08,,Active
+EMP0813,Eric Alvarez,eric.alvarez@company.com,IT,Software Engineer,A,4.36,2023-04-24,2024-07-24,Resigned
+EMP0814,Kenneth Gutierrez,kenneth.gutierrez@company.com,R&D,Research Scientist,E,46.47,2020-09-24,2025-08-13,Resigned
+EMP0815,Bradley Smith,bradley.smith@company.com,R&D,Research Scientist,B,9.69,2020-09-23,2023-05-07,Resigned
+EMP0816,Lindsey Riley,lindsey.riley@company.com,Sales,Sales Manager,D,25.75,2017-08-16,2022-03-06,Resigned
+EMP0817,Michael Riley,michael.riley@company.com,Finance,Finance Manager,C,19.6,2018-11-08,,Active
+EMP0818,Michael Johnson,michael.johnson@company.com,R&D,Lab Technician,B,6.11,2023-10-06,2024-05-31,Resigned
+EMP0819,Lauren Taylor MD,lauren.taylor.md@company.com,Operations,Operations Executive,B,10.16,2017-02-15,2022-02-12,Resigned
+EMP0820,Danielle Vazquez,danielle.vazquez@company.com,Finance,Accountant,D,27.55,2016-04-12,2019-08-05,Resigned
+EMP0821,Kimberly Craig,kimberly.craig@company.com,HR,HR Manager,C,19.59,2022-08-05,2024-02-10,Resigned
+EMP0822,Vanessa Evans,vanessa.evans@company.com,Marketing,Marketing Manager,E,40.07,2023-12-02,,Active
+EMP0823,Christopher Bass,christopher.bass@company.com,Finance,Financial Analyst,D,25.39,2015-10-11,2023-01-13,Resigned
+EMP0824,Joseph Bailey,joseph.bailey@company.com,R&D,Product Developer,A,3.69,2018-01-18,2018-12-29,Resigned
+EMP0825,Johnny Green,johnny.green@company.com,Finance,Accountant,A,4.77,2019-06-25,2024-05-07,Resigned
+EMP0826,Christie Chen,christie.chen@company.com,IT,Software Engineer,D,33.15,2023-03-30,2025-06-23,Resigned
+EMP0827,Diana Davis,diana.davis@company.com,Marketing,Marketing Manager,A,4.78,2023-05-22,2023-10-19,Resigned
+EMP0828,Kristen Davis,kristen.davis@company.com,HR,HR Executive,A,3.14,2019-08-13,2019-10-22,Resigned
+EMP0829,Kathryn Dudley,kathryn.dudley@company.com,Sales,Sales Manager,A,4.64,2024-06-30,2025-01-06,Resigned
+EMP0830,Susan Robles,susan.robles@company.com,Finance,Accountant,A,3.9,2016-05-13,2017-03-29,Resigned
+EMP0831,Kimberly Mason,kimberly.mason@company.com,Operations,Operations Analyst,C,16.98,2022-03-02,2022-11-07,Resigned
+EMP0832,Lisa Frederick,lisa.frederick@company.com,Sales,Sales Executive,E,45.78,2023-12-22,2024-01-09,Resigned
+EMP0833,Tracy Green,tracy.green@company.com,HR,HR Manager,D,22.98,2021-10-04,2023-08-18,Resigned
+EMP0834,Alan White,alan.white@company.com,IT,System Admin,C,17.63,2015-10-19,2016-05-06,Resigned
+EMP0835,Scott King,scott.king@company.com,HR,HR Executive,D,33.66,2022-09-02,2024-08-07,Resigned
+EMP0836,Ryan Fleming,ryan.fleming@company.com,Sales,Sales Manager,B,6.02,2017-08-09,2018-05-31,Resigned
+EMP0837,Gregg Perez,gregg.perez@company.com,HR,HR Executive,D,22.24,2021-06-25,2025-01-08,Resigned
+EMP0838,Daniel Campbell,daniel.campbell@company.com,Marketing,Marketing Executive,A,5.71,2020-06-14,2022-11-22,Resigned
+EMP0839,Jodi Smith,jodi.smith@company.com,Sales,Sales Manager,C,15.71,2023-11-22,2025-08-28,Resigned
+EMP0840,Stephen Buck,stephen.buck@company.com,Finance,Accountant,C,14.88,2016-07-17,2020-10-14,Resigned
+EMP0841,Amanda Wright,amanda.wright@company.com,Sales,Business Development,A,3.28,2020-12-17,2024-02-10,Resigned
+EMP0842,Michael Ramirez,michael.ramirez@company.com,HR,HR Manager,B,9.98,2019-09-26,2023-11-23,Resigned
+EMP0843,Henry Gomez,henry.gomez@company.com,IT,IT Manager,E,39.02,2023-04-08,2023-04-21,Resigned
+EMP0844,James Miller,james.miller@company.com,IT,Data Analyst,B,6.68,2019-05-12,2021-04-26,Resigned
+EMP0845,Betty Cooper,betty.cooper@company.com,Sales,Sales Manager,D,30.35,2017-02-12,2025-06-02,Resigned
+EMP0846,Emily Morrison,emily.morrison@company.com,Sales,Business Development,B,6.68,2018-04-12,2023-12-11,Resigned
+EMP0847,Mr. Stephen Lee,mr..stephen.lee@company.com,HR,HR Manager,A,4.25,2024-05-03,2025-02-25,Resigned
+EMP0848,Jennifer Knight,jennifer.knight@company.com,R&D,Lab Technician,D,22.72,2024-08-14,2025-07-23,Resigned
+EMP0849,Cindy Miller,cindy.miller@company.com,IT,Software Engineer,B,8.9,2023-09-27,2024-12-24,Resigned
+EMP0850,Mr. Russell Johnson,mr..russell.johnson@company.com,Sales,Sales Manager,A,3.19,2022-06-13,2022-09-15,Resigned
+EMP0851,Rebecca Young,rebecca.young@company.com,HR,HR Executive,E,46.51,2019-11-06,2022-07-31,Resigned
+EMP0852,Cody Bryan,cody.bryan@company.com,Marketing,Marketing Executive,C,16.15,2024-05-11,2024-08-04,Resigned
+EMP0853,Danielle Brown,danielle.brown@company.com,Marketing,Marketing Executive,D,29.93,2021-02-06,2025-02-22,Resigned
+EMP0854,John Schroeder,john.schroeder@company.com,IT,IT Manager,B,11.03,2017-10-25,2020-08-02,Resigned
+EMP0855,Thomas Rivera,thomas.rivera@company.com,Marketing,Marketing Executive,A,4.93,2017-08-20,2019-09-16,Resigned
+EMP0856,Michele Ross,michele.ross@company.com,R&D,Product Developer,D,33.04,2016-03-23,2016-06-30,Resigned
+EMP0857,Lauren Perez,lauren.perez@company.com,Sales,Sales Manager,B,7.99,2015-12-14,2025-02-04,Resigned
+EMP0858,Clinton Bennett,clinton.bennett@company.com,Marketing,Marketing Executive,E,44.65,2016-12-28,2019-12-27,Resigned
+EMP0859,Julie Cook,julie.cook@company.com,Finance,Accountant,D,26.66,2023-03-06,2023-07-08,Resigned
+EMP0860,Arthur Cameron,arthur.cameron@company.com,HR,Recruiter,D,24.74,2018-12-01,,Active
+EMP0861,George Gray,george.gray@company.com,Operations,Operations Analyst,A,3.31,2016-07-17,2024-02-10,Resigned
+EMP0862,Michael Erickson,michael.erickson@company.com,Marketing,Marketing Manager,A,5.48,2017-03-20,2022-07-10,Resigned
+EMP0863,Christopher Palmer,christopher.palmer@company.com,Marketing,Marketing Manager,C,19.12,2015-09-08,2019-03-03,Resigned
+EMP0864,Cody Andrade,cody.andrade@company.com,Operations,Operations Analyst,D,34.26,2018-02-23,2018-03-30,Resigned
+EMP0865,Theresa Wilson,theresa.wilson@company.com,HR,HR Manager,D,24.98,2016-07-24,2024-05-29,Resigned
+EMP0866,Alicia Hicks,alicia.hicks@company.com,Marketing,SEO Specialist,C,17.73,2021-02-09,2022-09-18,Resigned
+EMP0867,David Sims,david.sims@company.com,R&D,Lab Technician,B,6.01,2022-10-24,2025-02-26,Resigned
+EMP0868,Evelyn Smith,evelyn.smith@company.com,Operations,Logistics Manager,E,42.83,2020-07-24,2024-08-29,Resigned
+EMP0869,Robert Jones,robert.jones@company.com,HR,HR Manager,D,22.11,2019-11-16,2024-10-07,Resigned
+EMP0870,Ricky Mercado,ricky.mercado@company.com,Operations,Logistics Manager,A,3.76,2017-10-24,2025-06-23,Resigned
+EMP0871,Joshua Ross,joshua.ross@company.com,HR,Recruiter,B,8.74,2019-12-19,2024-01-22,Resigned
+EMP0872,Crystal Brown,crystal.brown@company.com,Operations,Logistics Manager,A,5.27,2015-09-13,2022-02-26,Resigned
+EMP0873,John Lynch,john.lynch@company.com,Operations,Operations Analyst,E,36.85,2016-07-09,,Active
+EMP0874,Jaime Mcneil,jaime.mcneil@company.com,Sales,Business Development,E,49.34,2024-08-28,2024-11-30,Resigned
+EMP0875,William King,william.king@company.com,Sales,Sales Executive,E,46.04,2024-03-12,2024-03-26,Resigned
+EMP0876,Jorge Hawkins,jorge.hawkins@company.com,Sales,Business Development,D,33.87,2017-06-21,2023-01-14,Resigned
+EMP0877,Raymond Henderson,raymond.henderson@company.com,Finance,Finance Manager,E,37.6,2020-09-25,,Active
+EMP0878,Jennifer Garza,jennifer.garza@company.com,HR,Recruiter,E,44.09,2018-10-31,2020-01-18,Resigned
+EMP0879,Jeremy Wilson,jeremy.wilson@company.com,Sales,Sales Manager,E,48.74,2022-05-04,2024-08-07,Resigned
+EMP0880,Matthew Mccoy,matthew.mccoy@company.com,IT,IT Manager,C,19.76,2021-01-07,2025-01-14,Resigned
+EMP0881,John Barnett,john.barnett@company.com,Finance,Accountant,D,29.04,2020-11-12,,Active
+EMP0882,Matthew Moore,matthew.moore@company.com,Marketing,SEO Specialist,E,47.91,2016-10-12,2017-06-12,Resigned
+EMP0883,Jacob Morgan,jacob.morgan@company.com,Marketing,Marketing Manager,B,7.21,2021-01-25,2023-09-04,Resigned
+EMP0884,Frank Rodriguez,frank.rodriguez@company.com,IT,Data Analyst,B,11.89,2017-12-06,2022-04-12,Resigned
+EMP0885,Kimberly Allen,kimberly.allen@company.com,Finance,Finance Manager,E,45.41,2023-08-02,2024-04-30,Resigned
+EMP0886,Angelica Parks,angelica.parks@company.com,HR,Recruiter,E,42.21,2021-11-11,2023-09-15,Resigned
+EMP0887,Ethan Ortega,ethan.ortega@company.com,Operations,Operations Analyst,D,30.11,2020-10-06,,Active
+EMP0888,Brian Thompson,brian.thompson@company.com,Marketing,SEO Specialist,D,32.12,2018-12-26,2025-08-04,Resigned
+EMP0889,Jesse Chung,jesse.chung@company.com,HR,Recruiter,B,6.32,2023-01-02,2023-06-26,Resigned
+EMP0890,Mr. Carlos Simmons,mr..carlos.simmons@company.com,IT,System Admin,C,17.47,2022-03-10,2023-02-05,Resigned
+EMP0891,Jared Martin,jared.martin@company.com,HR,HR Executive,C,13.63,2016-02-11,2017-08-29,Resigned
+EMP0892,Brittany Davis,brittany.davis@company.com,IT,IT Manager,A,4.85,2016-01-12,2016-06-28,Resigned
+EMP0893,Troy Lindsey,troy.lindsey@company.com,Marketing,Marketing Executive,E,40.83,2015-11-15,2021-04-16,Resigned
+EMP0894,Daniel Phillips,daniel.phillips@company.com,R&D,Lab Technician,C,17.54,2021-04-13,2022-11-16,Resigned
+EMP0895,Sara Robles,sara.robles@company.com,Sales,Sales Manager,D,34.35,2023-10-14,,Active
+EMP0896,Daniel Johnson,daniel.johnson@company.com,IT,Software Engineer,A,5.23,2021-01-02,2025-08-08,Resigned
+EMP0897,Carl Copeland,carl.copeland@company.com,R&D,Product Developer,B,11.47,2021-03-17,2021-08-26,Resigned
+EMP0898,Erika Walker,erika.walker@company.com,Operations,Logistics Manager,E,43.2,2019-05-21,2019-09-14,Resigned
+EMP0899,Linda Newton,linda.newton@company.com,R&D,Lab Technician,B,7.77,2022-04-12,2022-07-30,Resigned
+EMP0900,Michael Wang,michael.wang@company.com,Operations,Operations Executive,B,11.77,2023-06-09,2023-11-24,Resigned
+EMP0901,Timothy Garcia,timothy.garcia@company.com,HR,Recruiter,A,4.29,2024-06-20,2024-10-19,Resigned
+EMP0902,Monica Briggs,monica.briggs@company.com,Finance,Accountant,E,47.69,2018-09-04,2025-08-16,Resigned
+EMP0903,Dustin Smith,dustin.smith@company.com,Sales,Business Development,B,6.24,2022-10-19,,Active
+EMP0904,Sean Griffin,sean.griffin@company.com,Marketing,Marketing Executive,E,47.65,2019-11-05,2020-06-14,Resigned
+EMP0905,Dennis Pena,dennis.pena@company.com,R&D,Lab Technician,E,40.37,2019-10-22,2025-01-08,Resigned
+EMP0906,Scott Patel,scott.patel@company.com,IT,System Admin,B,9.12,2021-12-18,2024-07-31,Resigned
+EMP0907,Nancy Mcpherson,nancy.mcpherson@company.com,Finance,Financial Analyst,E,43.06,2019-10-05,2021-03-08,Resigned
+EMP0908,Emily Mitchell,emily.mitchell@company.com,Finance,Accountant,C,14.65,2021-07-25,2024-01-23,Resigned
+EMP0909,Clifford Zhang,clifford.zhang@company.com,R&D,Lab Technician,E,42.12,2017-10-18,2025-07-21,Resigned
+EMP0910,Kelly Smith,kelly.smith@company.com,R&D,Lab Technician,A,3.34,2016-12-29,2021-01-02,Resigned
+EMP0911,Megan Lee,megan.lee@company.com,Finance,Finance Manager,E,48.78,2018-10-12,2023-06-29,Resigned
+EMP0912,Katrina Delacruz,katrina.delacruz@company.com,HR,HR Executive,C,15.05,2022-05-31,2025-08-09,Resigned
+EMP0913,Sara Greene,sara.greene@company.com,HR,Recruiter,C,16.32,2022-10-05,2024-10-09,Resigned
+EMP0914,Dawn Medina,dawn.medina@company.com,Marketing,SEO Specialist,E,47.04,2022-07-20,2022-11-22,Resigned
+EMP0915,Brittany Williams,brittany.williams@company.com,HR,Recruiter,B,7.92,2019-06-23,2024-08-17,Resigned
+EMP0916,Christopher Wiley,christopher.wiley@company.com,HR,HR Manager,E,43.0,2024-07-15,2025-01-28,Resigned
+EMP0917,Jason Foley,jason.foley@company.com,Finance,Finance Manager,B,11.19,2022-08-28,2025-01-28,Resigned
+EMP0918,Danielle Bautista,danielle.bautista@company.com,HR,HR Manager,E,47.43,2024-03-25,,Active
+EMP0919,Kevin Livingston IV,kevin.livingston.iv@company.com,Operations,Logistics Manager,A,5.24,2024-01-16,2025-05-09,Resigned
+EMP0920,Bryan Campbell,bryan.campbell@company.com,Sales,Business Development,C,12.3,2018-04-02,2024-07-24,Resigned
+EMP0921,Anne Brown,anne.brown@company.com,Finance,Financial Analyst,E,36.06,2018-01-29,,Active
+EMP0922,Madeline Whitaker,madeline.whitaker@company.com,IT,IT Manager,D,26.77,2020-02-28,2021-10-29,Resigned
+EMP0923,Nicholas Nicholson,nicholas.nicholson@company.com,IT,Software Engineer,D,30.1,2019-12-02,2021-04-04,Resigned
+EMP0924,Anne Taylor,anne.taylor@company.com,Operations,Operations Analyst,E,35.95,2021-11-29,2024-12-04,Resigned
+EMP0925,George Harrington,george.harrington@company.com,HR,HR Executive,A,4.07,2019-12-24,2020-11-10,Resigned
+EMP0926,Gerald Barron,gerald.barron@company.com,IT,Data Analyst,E,36.3,2022-10-07,2022-10-18,Resigned
+EMP0927,Allison Berry,allison.berry@company.com,Sales,Sales Manager,D,32.33,2016-09-03,2018-09-03,Resigned
+EMP0928,David Miller,david.miller@company.com,Finance,Finance Manager,B,6.82,2017-10-31,2023-04-28,Resigned
+EMP0929,Victor Foster,victor.foster@company.com,R&D,Lab Technician,C,19.68,2015-12-12,2017-05-29,Resigned
+EMP0930,Eric Tyler,eric.tyler@company.com,Operations,Operations Analyst,C,19.66,2021-09-23,2022-03-07,Resigned
+EMP0931,Erika Simon,erika.simon@company.com,R&D,Lab Technician,B,6.74,2024-04-08,2024-04-12,Resigned
+EMP0932,Hannah Kirby,hannah.kirby@company.com,Marketing,SEO Specialist,E,43.21,2019-02-12,2023-09-22,Resigned
+EMP0933,James Ochoa,james.ochoa@company.com,Finance,Finance Manager,C,13.69,2019-06-21,,Active
+EMP0934,Ashley Miller,ashley.miller@company.com,R&D,Lab Technician,B,6.97,2023-06-28,2025-04-03,Resigned
+EMP0935,Veronica Davila,veronica.davila@company.com,R&D,Product Developer,B,6.69,2017-04-05,2021-08-09,Resigned
+EMP0936,Scott Gilmore,scott.gilmore@company.com,Marketing,Marketing Executive,E,41.92,2021-03-15,2023-02-04,Resigned
+EMP0937,Alexander Levine,alexander.levine@company.com,IT,Software Engineer,C,12.79,2016-11-19,2024-12-13,Resigned
+EMP0938,Vincent Miller DVM,vincent.miller.dvm@company.com,Sales,Sales Manager,C,13.03,2020-08-27,2020-12-15,Resigned
+EMP0939,Sean Kelley,sean.kelley@company.com,HR,Recruiter,E,36.05,2015-10-04,2015-10-07,Resigned
+EMP0940,Christina Landry,christina.landry@company.com,Sales,Sales Manager,C,16.93,2017-02-04,2025-07-22,Resigned
+EMP0941,Richard Parks,richard.parks@company.com,Marketing,Marketing Executive,E,43.5,2018-01-06,,Active
+EMP0942,Matthew Ramsey,matthew.ramsey@company.com,Sales,Sales Executive,A,3.94,2019-05-13,2020-01-30,Resigned
+EMP0943,David Davis,david.davis@company.com,Operations,Operations Analyst,D,24.15,2020-10-24,2023-01-15,Resigned
+EMP0944,Mr. Robert Houston,mr..robert.houston@company.com,Operations,Operations Analyst,C,19.02,2016-01-25,2023-05-24,Resigned
+EMP0945,Thomas Knight,thomas.knight@company.com,IT,Data Analyst,D,28.28,2023-10-10,2024-04-03,Resigned
+EMP0946,James Taylor,james.taylor@company.com,Marketing,Marketing Executive,C,18.87,2018-08-17,2020-12-27,Resigned
+EMP0947,Adam Ortiz,adam.ortiz@company.com,Marketing,Marketing Executive,C,17.87,2016-11-30,2018-03-30,Resigned
+EMP0948,Bruce Jones,bruce.jones@company.com,Operations,Operations Executive,A,5.55,2015-09-07,2018-02-22,Resigned
+EMP0949,Richard Arroyo,richard.arroyo@company.com,R&D,Lab Technician,E,41.08,2018-02-13,2022-08-03,Resigned
+EMP0950,Brett Garcia,brett.garcia@company.com,HR,HR Executive,C,16.35,2020-07-16,,Active
+EMP0951,Karl Howard,karl.howard@company.com,Sales,Business Development,B,8.19,2023-10-14,2023-12-24,Resigned
+EMP0952,Alexis Brown,alexis.brown@company.com,R&D,Lab Technician,C,13.07,2023-07-11,2023-11-11,Resigned
+EMP0953,William Hicks,william.hicks@company.com,HR,Recruiter,C,16.02,2020-04-17,2020-08-09,Resigned
+EMP0954,Dawn Clark,dawn.clark@company.com,R&D,Lab Technician,B,10.54,2023-01-11,2025-08-20,Resigned
+EMP0955,Gail Cooke,gail.cooke@company.com,Finance,Accountant,E,49.23,2022-07-14,2023-04-16,Resigned
+EMP0956,Kimberly Craig,kimberly.craig@company.com,Finance,Finance Manager,D,34.09,2020-05-14,2021-11-07,Resigned
+EMP0957,Donald Oliver,donald.oliver@company.com,R&D,Product Developer,B,6.38,2022-05-28,2023-06-01,Resigned
+EMP0958,Maurice Evans,maurice.evans@company.com,HR,HR Executive,B,9.11,2020-02-28,2021-01-06,Resigned
+EMP0959,Lynn Hess,lynn.hess@company.com,Sales,Sales Manager,D,33.22,2020-09-17,2024-05-15,Resigned
+EMP0960,Jose Jordan,jose.jordan@company.com,Operations,Logistics Manager,A,5.11,2017-06-26,2024-02-25,Resigned
+EMP0961,Thomas Russell,thomas.russell@company.com,R&D,Product Developer,C,16.63,2023-08-29,2023-12-01,Resigned
+EMP0962,Julie Perez,julie.perez@company.com,Sales,Business Development,D,25.48,2021-10-14,2022-05-28,Resigned
+EMP0963,Brianna Cooke,brianna.cooke@company.com,R&D,Research Scientist,E,38.77,2020-10-18,,Active
+EMP0964,Kevin Gray MD,kevin.gray.md@company.com,Finance,Finance Manager,D,25.29,2016-01-21,,Active
+EMP0965,Joseph Garcia,joseph.garcia@company.com,Sales,Sales Manager,E,35.1,2023-08-20,,Active
+EMP0966,Andrea Cannon,andrea.cannon@company.com,Sales,Sales Executive,B,6.46,2019-01-07,2020-01-21,Resigned
+EMP0967,Tina Wright,tina.wright@company.com,Finance,Accountant,B,6.94,2024-04-05,2025-07-28,Resigned
+EMP0968,Tanya Dyer,tanya.dyer@company.com,R&D,Research Scientist,B,8.49,2019-12-17,2022-02-28,Resigned
+EMP0969,Melinda Marshall,melinda.marshall@company.com,HR,Recruiter,D,27.19,2020-04-12,2024-09-20,Resigned
+EMP0970,Brandon Thomas,brandon.thomas@company.com,Operations,Logistics Manager,A,3.73,2018-04-13,2022-05-01,Resigned
+EMP0971,Denise Cabrera,denise.cabrera@company.com,Marketing,Marketing Executive,B,9.78,2022-03-07,2024-09-02,Resigned
+EMP0972,Theodore Curry,theodore.curry@company.com,Marketing,Marketing Executive,A,3.5,2018-12-13,,Active
+EMP0973,Paul Davis,paul.davis@company.com,Marketing,SEO Specialist,E,49.54,2023-12-16,2024-09-13,Resigned
+EMP0974,James Jones,james.jones@company.com,Operations,Operations Analyst,C,19.58,2019-09-09,2024-07-14,Resigned
+EMP0975,Carolyn Hester,carolyn.hester@company.com,Marketing,SEO Specialist,D,22.56,2017-08-23,,Active
+EMP0976,Christine Cooper,christine.cooper@company.com,Marketing,Marketing Executive,E,47.31,2017-10-24,2024-12-27,Resigned
+EMP0977,Rebecca Williams,rebecca.williams@company.com,Operations,Operations Analyst,C,13.34,2018-11-26,2020-05-08,Resigned
+EMP0978,Savannah Romero,savannah.romero@company.com,Sales,Business Development,E,36.03,2020-08-24,2022-04-21,Resigned
+EMP0979,William Fitzpatrick,william.fitzpatrick@company.com,Finance,Accountant,A,3.61,2021-10-02,,Active
+EMP0980,Diana Robbins,diana.robbins@company.com,Marketing,Marketing Manager,D,32.4,2016-07-23,2023-09-07,Resigned
+EMP0981,Charles Robinson,charles.robinson@company.com,Finance,Financial Analyst,E,44.0,2016-02-03,,Active
+EMP0982,Bridget Miller,bridget.miller@company.com,Marketing,Marketing Manager,A,3.28,2015-09-05,2018-06-04,Resigned
+EMP0983,Greg Jones,greg.jones@company.com,Marketing,Marketing Manager,A,5.69,2022-07-29,2025-04-25,Resigned
+EMP0984,Lawrence Stephens,lawrence.stephens@company.com,Operations,Logistics Manager,E,41.31,2018-08-13,,Active
+EMP0985,Brittany Franklin,brittany.franklin@company.com,Operations,Operations Analyst,D,23.44,2022-09-13,,Active
+EMP0986,Mark Smith,mark.smith@company.com,R&D,Product Developer,C,16.71,2022-05-27,2024-12-03,Resigned
+EMP0987,Blake Moses,blake.moses@company.com,R&D,Lab Technician,E,36.47,2024-04-08,2025-08-15,Resigned
+EMP0988,Juan Miller,juan.miller@company.com,Sales,Sales Executive,A,3.85,2018-10-27,,Active
+EMP0989,Julie Huang,julie.huang@company.com,Sales,Sales Manager,B,6.03,2016-06-29,2019-12-21,Resigned
+EMP0990,Andrew Richardson,andrew.richardson@company.com,HR,HR Executive,E,36.77,2024-03-08,2024-03-28,Resigned
+EMP0991,Joshua Patterson,joshua.patterson@company.com,Operations,Operations Executive,C,15.27,2022-03-30,2022-06-19,Resigned
+EMP0992,Kimberly Bailey,kimberly.bailey@company.com,Sales,Business Development,E,38.8,2019-01-14,,Active
+EMP0993,Julie Bruce,julie.bruce@company.com,Sales,Business Development,C,16.9,2020-04-17,,Active
+EMP0994,Paul Camacho,paul.camacho@company.com,Sales,Sales Executive,D,28.28,2021-07-15,2021-11-15,Resigned
+EMP0995,Tyler Pearson,tyler.pearson@company.com,Finance,Financial Analyst,E,43.32,2015-10-13,2017-08-16,Resigned
+EMP0996,Alison Stein,alison.stein@company.com,IT,Data Analyst,D,31.04,2023-10-22,,Active
+EMP0997,Kenneth Knight,kenneth.knight@company.com,Operations,Operations Executive,B,8.68,2015-11-08,2019-07-01,Resigned
+EMP0998,Matthew Ross,matthew.ross@company.com,Finance,Accountant,B,9.05,2020-07-14,2024-02-10,Resigned
+EMP0999,Jennifer White,jennifer.white@company.com,R&D,Lab Technician,E,45.46,2023-10-19,2024-07-13,Resigned
+EMP1000,Michael Hoover,michael.hoover@company.com,Finance,Financial Analyst,A,5.41,2021-08-21,,Active
