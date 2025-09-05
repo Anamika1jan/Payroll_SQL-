@@ -2,8 +2,16 @@
 # Payroll SQL Project
 
 ## 📌 Project Overview
-This project provides a **Payroll Management Dataset** (1,000 employees) for practicing SQL queries.  
-It covers **basic, intermediate, and advanced SQL problems** such as filtering, aggregation, joins, and analytics.
+This project provides a Payroll Management Dataset for practicing SQL queries.
+It is designed for students, data analysts, and engineers who want to strengthen their SQL skills with real-world style business problems.
+
+The project covers:
+
+✅ Basic Queries (SELECT, WHERE, COUNT)
+
+✅ Intermediate Queries (GROUP BY, Aggregations, Filtering)
+
+✅ Advanced Queries (Joins, Subqueries, Date Functions, Analytics)
 
 ## 📂 Files Included
 - `payroll_dataset.csv` → Payroll dataset (employee details, salaries, joining/leaving dates, status)
